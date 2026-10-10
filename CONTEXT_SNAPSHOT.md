@@ -9,6 +9,13 @@
 - 累计登记主讲词汇单位：38 项；不是个人掌握数量。
 - 原PDF已导入；本次只核对词汇索引等选定页面，未全面重审答案及旧文中的论断。
 
+## 本次进展（2026-10-10）
+
+- L002 2024与2026英语一 Text 4 的语境、36–40题选项与非官方参考答案已交叉核对，见 `lessons/02-environment-ecology/SOURCE_AUDIT.md`。
+- GitHub 已保存简版可编辑工作稿 `lessons/02-environment-ecology/LESSON_DRAFT.md`；完整Markdown与9页PDF在当前聊天中生成，**未同步仓库**。
+- L002依旧为 `planned`；23项候选新词无任何 primary 记录；旧S001的 `regulate` 与L001的 `resilient`、`subsequent` 只能作为复习。
+- 完整资料入仓库后，需运行审计、人工检查PDF，再更新出版与曝光记录。不能推算官方大纲覆盖率、个人掌握率。
+
 ## 下一步：L002 环境与生态
 
 - 候选真题：2024 English I Reading Text 4；2026 English I Reading Text 4。
@@ -16,7 +23,7 @@
   filter, authority, scope, at odds with, repercussion, jurisdiction, shortsighted, transcend, runoff, call on, stakes, mandate, curb, peter out, compile, shortfall, suppression, testament, erode, ignite, prescribed, tactic, double-edged sword。
 - 候选重复 1 项：regulate（已在S001主讲）。
 - 原计划复现：resilient, subsequent。
-- 先核对原文、选项及词义；所有候选均未计入已教。regulate 应改复习或有证据的新义项扩展。
+- 原文、选项及语境已初步交叉核验（来源审计见L002）；所有候选仍未计入已教。regulate 应改复习。
 
 ## 长期规则
 
