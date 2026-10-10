@@ -1,0 +1,269 @@
+[
+  {
+    "lesson_id": "S001",
+    "lexeme_id": "W025",
+    "kind": "primary",
+    "evidence": "lessons/00-legacy-sample/vocabulary-sample.pdf",
+    "mastery_inferred": false
+  },
+  {
+    "lesson_id": "S001",
+    "lexeme_id": "W026",
+    "kind": "primary",
+    "evidence": "lessons/00-legacy-sample/vocabulary-sample.pdf",
+    "mastery_inferred": false
+  },
+  {
+    "lesson_id": "S001",
+    "lexeme_id": "W027",
+    "kind": "primary",
+    "evidence": "lessons/00-legacy-sample/vocabulary-sample.pdf",
+    "mastery_inferred": false
+  },
+  {
+    "lesson_id": "S001",
+    "lexeme_id": "W028",
+    "kind": "primary",
+    "evidence": "lessons/00-legacy-sample/vocabulary-sample.pdf",
+    "mastery_inferred": false
+  },
+  {
+    "lesson_id": "S001",
+    "lexeme_id": "W029",
+    "kind": "primary",
+    "evidence": "lessons/00-legacy-sample/vocabulary-sample.pdf",
+    "mastery_inferred": false
+  },
+  {
+    "lesson_id": "S001",
+    "lexeme_id": "W030",
+    "kind": "primary",
+    "evidence": "lessons/00-legacy-sample/vocabulary-sample.pdf",
+    "mastery_inferred": false
+  },
+  {
+    "lesson_id": "S001",
+    "lexeme_id": "W031",
+    "kind": "primary",
+    "evidence": "lessons/00-legacy-sample/vocabulary-sample.pdf",
+    "mastery_inferred": false
+  },
+  {
+    "lesson_id": "S001",
+    "lexeme_id": "W032",
+    "kind": "primary",
+    "evidence": "lessons/00-legacy-sample/vocabulary-sample.pdf",
+    "mastery_inferred": false
+  },
+  {
+    "lesson_id": "S001",
+    "lexeme_id": "W033",
+    "kind": "primary",
+    "evidence": "lessons/00-legacy-sample/vocabulary-sample.pdf",
+    "mastery_inferred": false
+  },
+  {
+    "lesson_id": "S001",
+    "lexeme_id": "W034",
+    "kind": "primary",
+    "evidence": "lessons/00-legacy-sample/vocabulary-sample.pdf",
+    "mastery_inferred": false
+  },
+  {
+    "lesson_id": "S001",
+    "lexeme_id": "W035",
+    "kind": "primary",
+    "evidence": "lessons/00-legacy-sample/vocabulary-sample.pdf",
+    "mastery_inferred": false
+  },
+  {
+    "lesson_id": "S001",
+    "lexeme_id": "W036",
+    "kind": "primary",
+    "evidence": "lessons/00-legacy-sample/vocabulary-sample.pdf",
+    "mastery_inferred": false
+  },
+  {
+    "lesson_id": "S001",
+    "lexeme_id": "W037",
+    "kind": "primary",
+    "evidence": "lessons/00-legacy-sample/vocabulary-sample.pdf",
+    "mastery_inferred": false
+  },
+  {
+    "lesson_id": "S001",
+    "lexeme_id": "W038",
+    "kind": "primary",
+    "evidence": "lessons/00-legacy-sample/vocabulary-sample.pdf",
+    "mastery_inferred": false
+  },
+  {
+    "lesson_id": "L001",
+    "lexeme_id": "W001",
+    "kind": "primary",
+    "evidence": "lessons/01-education-learning/lesson-01-bilingual.pdf",
+    "mastery_inferred": false
+  },
+  {
+    "lesson_id": "L001",
+    "lexeme_id": "W002",
+    "kind": "primary",
+    "evidence": "lessons/01-education-learning/lesson-01-bilingual.pdf",
+    "mastery_inferred": false
+  },
+  {
+    "lesson_id": "L001",
+    "lexeme_id": "W003",
+    "kind": "primary",
+    "evidence": "lessons/01-education-learning/lesson-01-bilingual.pdf",
+    "mastery_inferred": false
+  },
+  {
+    "lesson_id": "L001",
+    "lexeme_id": "W004",
+    "kind": "primary",
+    "evidence": "lessons/01-education-learning/lesson-01-bilingual.pdf",
+    "mastery_inferred": false
+  },
+  {
+    "lesson_id": "L001",
+    "lexeme_id": "W005",
+    "kind": "primary",
+    "evidence": "lessons/01-education-learning/lesson-01-bilingual.pdf",
+    "mastery_inferred": false
+  },
+  {
+    "lesson_id": "L001",
+    "lexeme_id": "W006",
+    "kind": "primary",
+    "evidence": "lessons/01-education-learning/lesson-01-bilingual.pdf",
+    "mastery_inferred": false
+  },
+  {
+    "lesson_id": "L001",
+    "lexeme_id": "W007",
+    "kind": "primary",
+    "evidence": "lessons/01-education-learning/lesson-01-bilingual.pdf",
+    "mastery_inferred": false
+  },
+  {
+    "lesson_id": "L001",
+    "lexeme_id": "W008",
+    "kind": "primary",
+    "evidence": "lessons/01-education-learning/lesson-01-bilingual.pdf",
+    "mastery_inferred": false
+  },
+  {
+    "lesson_id": "L001",
+    "lexeme_id": "W009",
+    "kind": "primary",
+    "evidence": "lessons/01-education-learning/lesson-01-bilingual.pdf",
+    "mastery_inferred": false
+  },
+  {
+    "lesson_id": "L001",
+    "lexeme_id": "W010",
+    "kind": "primary",
+    "evidence": "lessons/01-education-learning/lesson-01-bilingual.pdf",
+    "mastery_inferred": false
+  },
+  {
+    "lesson_id": "L001",
+    "lexeme_id": "W011",
+    "kind": "primary",
+    "evidence": "lessons/01-education-learning/lesson-01-bilingual.pdf",
+    "mastery_inferred": false
+  },
+  {
+    "lesson_id": "L001",
+    "lexeme_id": "W012",
+    "kind": "primary",
+    "evidence": "lessons/01-education-learning/lesson-01-bilingual.pdf",
+    "mastery_inferred": false
+  },
+  {
+    "lesson_id": "L001",
+    "lexeme_id": "W013",
+    "kind": "primary",
+    "evidence": "lessons/01-education-learning/lesson-01-bilingual.pdf",
+    "mastery_inferred": false
+  },
+  {
+    "lesson_id": "L001",
+    "lexeme_id": "W014",
+    "kind": "primary",
+    "evidence": "lessons/01-education-learning/lesson-01-bilingual.pdf",
+    "mastery_inferred": false
+  },
+  {
+    "lesson_id": "L001",
+    "lexeme_id": "W015",
+    "kind": "primary",
+    "evidence": "lessons/01-education-learning/lesson-01-bilingual.pdf",
+    "mastery_inferred": false
+  },
+  {
+    "lesson_id": "L001",
+    "lexeme_id": "W016",
+    "kind": "primary",
+    "evidence": "lessons/01-education-learning/lesson-01-bilingual.pdf",
+    "mastery_inferred": false
+  },
+  {
+    "lesson_id": "L001",
+    "lexeme_id": "W017",
+    "kind": "primary",
+    "evidence": "lessons/01-education-learning/lesson-01-bilingual.pdf",
+    "mastery_inferred": false
+  },
+  {
+    "lesson_id": "L001",
+    "lexeme_id": "W018",
+    "kind": "primary",
+    "evidence": "lessons/01-education-learning/lesson-01-bilingual.pdf",
+    "mastery_inferred": false
+  },
+  {
+    "lesson_id": "L001",
+    "lexeme_id": "W019",
+    "kind": "primary",
+    "evidence": "lessons/01-education-learning/lesson-01-bilingual.pdf",
+    "mastery_inferred": false
+  },
+  {
+    "lesson_id": "L001",
+    "lexeme_id": "W020",
+    "kind": "primary",
+    "evidence": "lessons/01-education-learning/lesson-01-bilingual.pdf",
+    "mastery_inferred": false
+  },
+  {
+    "lesson_id": "L001",
+    "lexeme_id": "W021",
+    "kind": "primary",
+    "evidence": "lessons/01-education-learning/lesson-01-bilingual.pdf",
+    "mastery_inferred": false
+  },
+  {
+    "lesson_id": "L001",
+    "lexeme_id": "W022",
+    "kind": "primary",
+    "evidence": "lessons/01-education-learning/lesson-01-bilingual.pdf",
+    "mastery_inferred": false
+  },
+  {
+    "lesson_id": "L001",
+    "lexeme_id": "W023",
+    "kind": "primary",
+    "evidence": "lessons/01-education-learning/lesson-01-bilingual.pdf",
+    "mastery_inferred": false
+  },
+  {
+    "lesson_id": "L001",
+    "lexeme_id": "W024",
+    "kind": "primary",
+    "evidence": "lessons/01-education-learning/lesson-01-bilingual.pdf",
+    "mastery_inferred": false
+  }
+]
+

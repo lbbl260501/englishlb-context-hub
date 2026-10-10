@@ -1,0 +1,58 @@
+[
+  {
+    "id": "SNAPSHOT",
+    "kind": "user_supplied_snapshot",
+    "path": "sources/imported/CONTEXT_SNAPSHOT.original.md",
+    "verification": "read_as_project_context"
+  },
+  {
+    "id": "CHAT",
+    "kind": "chat_history",
+    "title": "考研英语一大纲词汇 search",
+    "verification": "relevant_messages_read_some_replies_are_placeholders"
+  },
+  {
+    "id": "PDF-L001",
+    "kind": "existing_learning_material",
+    "path": "lessons/01-education-learning/lesson-01-bilingual.pdf",
+    "verification": "file_and_selected_pages_checked_not_full_answer_audit"
+  },
+  {
+    "id": "PDF-S001",
+    "kind": "historical_sample",
+    "path": "lessons/00-legacy-sample/vocabulary-sample.pdf",
+    "verification": "file_and_vocabulary_index_checked"
+  },
+  {
+    "id": "EXAM-2019-T2",
+    "kind": "exam_reference",
+    "exam": "English I",
+    "year": 2019,
+    "section": "Reading Text 2",
+    "verification": "referenced_by_existing_pdf_not_independently_rechecked"
+  },
+  {
+    "id": "EXAM-2025-T1",
+    "kind": "exam_reference",
+    "exam": "English I",
+    "year": 2025,
+    "section": "Reading Text 1",
+    "verification": "referenced_by_existing_pdf_not_independently_rechecked"
+  },
+  {
+    "id": "EXAM-2024-T4",
+    "kind": "exam_reference",
+    "exam": "English I",
+    "year": 2024,
+    "section": "Reading Text 4",
+    "verification": "candidate_from_snapshot_unverified"
+  },
+  {
+    "id": "EXAM-2026-T4",
+    "kind": "exam_reference",
+    "exam": "English I",
+    "year": 2026,
+    "section": "Reading Text 4",
+    "verification": "candidate_from_snapshot_unverified"
+  }
+]

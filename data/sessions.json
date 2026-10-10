@@ -1,0 +1,21 @@
+[
+  {
+    "date": "2026-10-10",
+    "action": "bootstrap_from_chat_snapshot_and_local_pdfs",
+    "completed": [
+      "导入L001和S001 PDF",
+      "登记38项历史主讲词和L002候选",
+      "识别regulate重复",
+      "建立检查和快照生成脚本"
+    ],
+    "pending": [
+      "将本地初始化内容提交到用户已创建的公开仓库 englishlb-context-hub，然后交接原ChatGPT对话",
+      "核验L002试卷及候选词",
+      "导入2027官方完整词表",
+      "后续收集实际测验记录"
+    ],
+    "handoff": "CHAT_HANDOFF.md",
+    "repository": "https://github.com/lbbl260501/englishlb-context-hub",
+    "visibility": "public_user_confirmed"
+  }
+]

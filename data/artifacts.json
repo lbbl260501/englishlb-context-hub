@@ -1,0 +1,22 @@
+[
+  {
+    "path": "lessons/01-education-learning/lesson-01-bilingual.pdf",
+    "original_filename": "kaoyan_english1_education_reading_bilingual.pdf",
+    "sha256": "635c94ce745f91743258a42f9f451d101e6465aa56c4901eb1a3b5f965b5f2ea",
+    "bytes": 560145,
+    "pages": 23
+  },
+  {
+    "path": "lessons/00-legacy-sample/vocabulary-sample.pdf",
+    "original_filename": "kaoyan_english1_vocab_sample.pdf",
+    "sha256": "c913497971a9a982fd210852465379fbb97fcdaa9174699b80f916b2540cd5e0",
+    "bytes": 432379,
+    "pages": 12
+  },
+  {
+    "path": "sources/imported/CONTEXT_SNAPSHOT.original.md",
+    "original_filename": "CONTEXT_SNAPSHOT.md",
+    "sha256": "732c1df7be7b39390251f68e59ead301d16d12c4f0a7ac14ca08c3345c8aaba4",
+    "bytes": 2505
+  }
+]

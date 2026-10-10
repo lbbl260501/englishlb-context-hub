@@ -1,0 +1,53 @@
+[
+  {
+    "id": "T01",
+    "title": "教育与学习",
+    "status": "organizational_framework_not_frequency_ranking"
+  },
+  {
+    "id": "T02",
+    "title": "工作与职业",
+    "status": "organizational_framework_not_frequency_ranking"
+  },
+  {
+    "id": "T03",
+    "title": "经济与商业",
+    "status": "organizational_framework_not_frequency_ranking"
+  },
+  {
+    "id": "T04",
+    "title": "技术与人工智能",
+    "status": "organizational_framework_not_frequency_ranking"
+  },
+  {
+    "id": "T05",
+    "title": "科学与研究",
+    "status": "organizational_framework_not_frequency_ranking"
+  },
+  {
+    "id": "T06",
+    "title": "环境与生态",
+    "status": "organizational_framework_not_frequency_ranking"
+  },
+  {
+    "id": "T07",
+    "title": "社会与公共政策",
+    "status": "organizational_framework_not_frequency_ranking"
+  },
+  {
+    "id": "T08",
+    "title": "文化与人文",
+    "status": "organizational_framework_not_frequency_ranking"
+  },
+  {
+    "id": "T09",
+    "title": "心理与行为",
+    "status": "organizational_framework_not_frequency_ranking"
+  },
+  {
+    "id": "T10",
+    "title": "媒体与信息",
+    "status": "organizational_framework_not_frequency_ranking"
+  }
+]
+

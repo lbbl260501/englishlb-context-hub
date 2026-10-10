@@ -1,0 +1,125 @@
+[
+  {
+    "id": "S001",
+    "title": "历史样章：科技、创新与规制",
+    "status": "archived_sample",
+    "theme": "T04",
+    "problem_ids": [],
+    "pdf": "lessons/00-legacy-sample/vocabulary-sample.pdf",
+    "primary_words": [
+      "W025",
+      "W026",
+      "W027",
+      "W028",
+      "W029",
+      "W030",
+      "W031",
+      "W032",
+      "W033",
+      "W034",
+      "W035",
+      "W036",
+      "W037",
+      "W038"
+    ],
+    "candidate_words": [],
+    "review_words": [],
+    "source_ids": [
+      "PDF-S001"
+    ],
+    "note": "历史样章保留去重用途；其中频率、命题规律等主张未在本次独立核验，不作后续选题模板。"
+  },
+  {
+    "id": "L001",
+    "title": "教育与学习｜词汇与阅读",
+    "status": "imported",
+    "theme": "T01",
+    "problem_ids": [
+      "P01",
+      "P02"
+    ],
+    "pdf": "lessons/01-education-learning/lesson-01-bilingual.pdf",
+    "primary_words": [
+      "W001",
+      "W002",
+      "W003",
+      "W004",
+      "W005",
+      "W006",
+      "W007",
+      "W008",
+      "W009",
+      "W010",
+      "W011",
+      "W012",
+      "W013",
+      "W014",
+      "W015",
+      "W016",
+      "W017",
+      "W018",
+      "W019",
+      "W020",
+      "W021",
+      "W022",
+      "W023",
+      "W024"
+    ],
+    "candidate_words": [],
+    "review_words": [],
+    "source_ids": [
+      "PDF-L001",
+      "EXAM-2019-T2",
+      "EXAM-2025-T1"
+    ],
+    "note": "已导入原23页PDF；主讲词表在第2页核对。未重新审校全部答案和来源。"
+  },
+  {
+    "id": "L002",
+    "title": "环境与生态｜保护政策与野火管理",
+    "status": "planned",
+    "theme": "T06",
+    "problem_ids": [
+      "P03",
+      "P04"
+    ],
+    "pdf": null,
+    "primary_words": [],
+    "candidate_words": [
+      "W039",
+      "W040",
+      "W036",
+      "W041",
+      "W042",
+      "W043",
+      "W044",
+      "W045",
+      "W046",
+      "W047",
+      "W048",
+      "W049",
+      "W050",
+      "W051",
+      "W052",
+      "W053",
+      "W054",
+      "W055",
+      "W056",
+      "W057",
+      "W058",
+      "W059",
+      "W060",
+      "W061"
+    ],
+    "review_words": [
+      "W019",
+      "W007"
+    ],
+    "source_ids": [
+      "EXAM-2024-T4",
+      "EXAM-2026-T4"
+    ],
+    "note": "来自用户快照；候选词尚未逐项核验。regulate 与历史样章重复，不得再次当作首次主讲。"
+  }
+]
+

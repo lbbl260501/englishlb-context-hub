@@ -1,0 +1,552 @@
+[
+  {
+    "id": "W001",
+    "text": "count",
+    "unit": "word",
+    "primary_lesson": "L001",
+    "syllabus_status": "unverified",
+    "mastery_status": "unassessed",
+    "senses": []
+  },
+  {
+    "id": "W002",
+    "text": "practice",
+    "unit": "word",
+    "primary_lesson": "L001",
+    "syllabus_status": "unverified",
+    "mastery_status": "unassessed",
+    "senses": []
+  },
+  {
+    "id": "W003",
+    "text": "transition",
+    "unit": "word",
+    "primary_lesson": "L001",
+    "syllabus_status": "unverified",
+    "mastery_status": "unassessed",
+    "senses": []
+  },
+  {
+    "id": "W004",
+    "text": "selective",
+    "unit": "word",
+    "primary_lesson": "L001",
+    "syllabus_status": "unverified",
+    "mastery_status": "unassessed",
+    "senses": []
+  },
+  {
+    "id": "W005",
+    "text": "critical",
+    "unit": "word",
+    "primary_lesson": "L001",
+    "syllabus_status": "unverified",
+    "mastery_status": "unassessed",
+    "senses": []
+  },
+  {
+    "id": "W006",
+    "text": "incur",
+    "unit": "word",
+    "primary_lesson": "L001",
+    "syllabus_status": "unverified",
+    "mastery_status": "unassessed",
+    "senses": []
+  },
+  {
+    "id": "W007",
+    "text": "subsequent",
+    "unit": "word",
+    "primary_lesson": "L001",
+    "syllabus_status": "unverified",
+    "mastery_status": "unassessed",
+    "senses": []
+  },
+  {
+    "id": "W008",
+    "text": "retention",
+    "unit": "word",
+    "primary_lesson": "L001",
+    "syllabus_status": "unverified",
+    "mastery_status": "unassessed",
+    "senses": []
+  },
+  {
+    "id": "W009",
+    "text": "qualified",
+    "unit": "word",
+    "primary_lesson": "L001",
+    "syllabus_status": "unverified",
+    "mastery_status": "unassessed",
+    "senses": []
+  },
+  {
+    "id": "W010",
+    "text": "incentive",
+    "unit": "word",
+    "primary_lesson": "L001",
+    "syllabus_status": "unverified",
+    "mastery_status": "unassessed",
+    "senses": []
+  },
+  {
+    "id": "W011",
+    "text": "align",
+    "unit": "word",
+    "primary_lesson": "L001",
+    "syllabus_status": "unverified",
+    "mastery_status": "unassessed",
+    "senses": []
+  },
+  {
+    "id": "W012",
+    "text": "save for",
+    "unit": "phrase",
+    "primary_lesson": "L001",
+    "syllabus_status": "unverified",
+    "mastery_status": "unassessed",
+    "senses": []
+  },
+  {
+    "id": "W013",
+    "text": "literacy",
+    "unit": "word",
+    "primary_lesson": "L001",
+    "syllabus_status": "unverified",
+    "mastery_status": "unassessed",
+    "senses": []
+  },
+  {
+    "id": "W014",
+    "text": "approach",
+    "unit": "word",
+    "primary_lesson": "L001",
+    "syllabus_status": "unverified",
+    "mastery_status": "unassessed",
+    "senses": []
+  },
+  {
+    "id": "W015",
+    "text": "commission",
+    "unit": "word",
+    "primary_lesson": "L001",
+    "syllabus_status": "unverified",
+    "mastery_status": "unassessed",
+    "senses": []
+  },
+  {
+    "id": "W016",
+    "text": "expose",
+    "unit": "word",
+    "primary_lesson": "L001",
+    "syllabus_status": "unverified",
+    "mastery_status": "unassessed",
+    "senses": []
+  },
+  {
+    "id": "W017",
+    "text": "sophisticated",
+    "unit": "word",
+    "primary_lesson": "L001",
+    "syllabus_status": "unverified",
+    "mastery_status": "unassessed",
+    "senses": []
+  },
+  {
+    "id": "W018",
+    "text": "draw on",
+    "unit": "phrase",
+    "primary_lesson": "L001",
+    "syllabus_status": "unverified",
+    "mastery_status": "unassessed",
+    "senses": []
+  },
+  {
+    "id": "W019",
+    "text": "resilient",
+    "unit": "word",
+    "primary_lesson": "L001",
+    "syllabus_status": "unverified",
+    "mastery_status": "unassessed",
+    "senses": []
+  },
+  {
+    "id": "W020",
+    "text": "embed",
+    "unit": "word",
+    "primary_lesson": "L001",
+    "syllabus_status": "unverified",
+    "mastery_status": "unassessed",
+    "senses": []
+  },
+  {
+    "id": "W021",
+    "text": "replicate",
+    "unit": "word",
+    "primary_lesson": "L001",
+    "syllabus_status": "unverified",
+    "mastery_status": "unassessed",
+    "senses": []
+  },
+  {
+    "id": "W022",
+    "text": "expansive",
+    "unit": "word",
+    "primary_lesson": "L001",
+    "syllabus_status": "unverified",
+    "mastery_status": "unassessed",
+    "senses": []
+  },
+  {
+    "id": "W023",
+    "text": "rely on",
+    "unit": "phrase",
+    "primary_lesson": "L001",
+    "syllabus_status": "unverified",
+    "mastery_status": "unassessed",
+    "senses": []
+  },
+  {
+    "id": "W024",
+    "text": "identify with",
+    "unit": "phrase",
+    "primary_lesson": "L001",
+    "syllabus_status": "unverified",
+    "mastery_status": "unassessed",
+    "senses": []
+  },
+  {
+    "id": "W025",
+    "text": "innovation",
+    "unit": "word",
+    "primary_lesson": "S001",
+    "syllabus_status": "unverified",
+    "mastery_status": "unassessed",
+    "senses": []
+  },
+  {
+    "id": "W026",
+    "text": "adoption",
+    "unit": "word",
+    "primary_lesson": "S001",
+    "syllabus_status": "unverified",
+    "mastery_status": "unassessed",
+    "senses": []
+  },
+  {
+    "id": "W027",
+    "text": "efficiency",
+    "unit": "word",
+    "primary_lesson": "S001",
+    "syllabus_status": "unverified",
+    "mastery_status": "unassessed",
+    "senses": []
+  },
+  {
+    "id": "W028",
+    "text": "disruption",
+    "unit": "word",
+    "primary_lesson": "S001",
+    "syllabus_status": "unverified",
+    "mastery_status": "unassessed",
+    "senses": []
+  },
+  {
+    "id": "W029",
+    "text": "concern",
+    "unit": "word",
+    "primary_lesson": "S001",
+    "syllabus_status": "unverified",
+    "mastery_status": "unassessed",
+    "senses": []
+  },
+  {
+    "id": "W030",
+    "text": "consequence",
+    "unit": "word",
+    "primary_lesson": "S001",
+    "syllabus_status": "unverified",
+    "mastery_status": "unassessed",
+    "senses": []
+  },
+  {
+    "id": "W031",
+    "text": "claim",
+    "unit": "word",
+    "primary_lesson": "S001",
+    "syllabus_status": "unverified",
+    "mastery_status": "unassessed",
+    "senses": []
+  },
+  {
+    "id": "W032",
+    "text": "evidence",
+    "unit": "word",
+    "primary_lesson": "S001",
+    "syllabus_status": "unverified",
+    "mastery_status": "unassessed",
+    "senses": []
+  },
+  {
+    "id": "W033",
+    "text": "assume",
+    "unit": "word",
+    "primary_lesson": "S001",
+    "syllabus_status": "unverified",
+    "mastery_status": "unassessed",
+    "senses": []
+  },
+  {
+    "id": "W034",
+    "text": "account for",
+    "unit": "phrase",
+    "primary_lesson": "S001",
+    "syllabus_status": "unverified",
+    "mastery_status": "unassessed",
+    "senses": []
+  },
+  {
+    "id": "W035",
+    "text": "address",
+    "unit": "word",
+    "primary_lesson": "S001",
+    "syllabus_status": "unverified",
+    "mastery_status": "unassessed",
+    "senses": []
+  },
+  {
+    "id": "W036",
+    "text": "regulate",
+    "unit": "word",
+    "primary_lesson": "S001",
+    "syllabus_status": "unverified",
+    "mastery_status": "unassessed",
+    "senses": []
+  },
+  {
+    "id": "W037",
+    "text": "subject to",
+    "unit": "phrase",
+    "primary_lesson": "S001",
+    "syllabus_status": "unverified",
+    "mastery_status": "unassessed",
+    "senses": []
+  },
+  {
+    "id": "W038",
+    "text": "accountability",
+    "unit": "word",
+    "primary_lesson": "S001",
+    "syllabus_status": "unverified",
+    "mastery_status": "unassessed",
+    "senses": []
+  },
+  {
+    "id": "W039",
+    "text": "filter",
+    "unit": "word",
+    "primary_lesson": null,
+    "syllabus_status": "unverified",
+    "mastery_status": "unassessed",
+    "senses": []
+  },
+  {
+    "id": "W040",
+    "text": "authority",
+    "unit": "word",
+    "primary_lesson": null,
+    "syllabus_status": "unverified",
+    "mastery_status": "unassessed",
+    "senses": []
+  },
+  {
+    "id": "W041",
+    "text": "scope",
+    "unit": "word",
+    "primary_lesson": null,
+    "syllabus_status": "unverified",
+    "mastery_status": "unassessed",
+    "senses": []
+  },
+  {
+    "id": "W042",
+    "text": "at odds with",
+    "unit": "phrase",
+    "primary_lesson": null,
+    "syllabus_status": "unverified",
+    "mastery_status": "unassessed",
+    "senses": []
+  },
+  {
+    "id": "W043",
+    "text": "repercussion",
+    "unit": "word",
+    "primary_lesson": null,
+    "syllabus_status": "unverified",
+    "mastery_status": "unassessed",
+    "senses": []
+  },
+  {
+    "id": "W044",
+    "text": "jurisdiction",
+    "unit": "word",
+    "primary_lesson": null,
+    "syllabus_status": "unverified",
+    "mastery_status": "unassessed",
+    "senses": []
+  },
+  {
+    "id": "W045",
+    "text": "shortsighted",
+    "unit": "word",
+    "primary_lesson": null,
+    "syllabus_status": "unverified",
+    "mastery_status": "unassessed",
+    "senses": []
+  },
+  {
+    "id": "W046",
+    "text": "transcend",
+    "unit": "word",
+    "primary_lesson": null,
+    "syllabus_status": "unverified",
+    "mastery_status": "unassessed",
+    "senses": []
+  },
+  {
+    "id": "W047",
+    "text": "runoff",
+    "unit": "word",
+    "primary_lesson": null,
+    "syllabus_status": "unverified",
+    "mastery_status": "unassessed",
+    "senses": []
+  },
+  {
+    "id": "W048",
+    "text": "call on",
+    "unit": "phrase",
+    "primary_lesson": null,
+    "syllabus_status": "unverified",
+    "mastery_status": "unassessed",
+    "senses": []
+  },
+  {
+    "id": "W049",
+    "text": "stakes",
+    "unit": "word",
+    "primary_lesson": null,
+    "syllabus_status": "unverified",
+    "mastery_status": "unassessed",
+    "senses": []
+  },
+  {
+    "id": "W050",
+    "text": "mandate",
+    "unit": "word",
+    "primary_lesson": null,
+    "syllabus_status": "unverified",
+    "mastery_status": "unassessed",
+    "senses": []
+  },
+  {
+    "id": "W051",
+    "text": "curb",
+    "unit": "word",
+    "primary_lesson": null,
+    "syllabus_status": "unverified",
+    "mastery_status": "unassessed",
+    "senses": []
+  },
+  {
+    "id": "W052",
+    "text": "peter out",
+    "unit": "phrase",
+    "primary_lesson": null,
+    "syllabus_status": "unverified",
+    "mastery_status": "unassessed",
+    "senses": []
+  },
+  {
+    "id": "W053",
+    "text": "compile",
+    "unit": "word",
+    "primary_lesson": null,
+    "syllabus_status": "unverified",
+    "mastery_status": "unassessed",
+    "senses": []
+  },
+  {
+    "id": "W054",
+    "text": "shortfall",
+    "unit": "word",
+    "primary_lesson": null,
+    "syllabus_status": "unverified",
+    "mastery_status": "unassessed",
+    "senses": []
+  },
+  {
+    "id": "W055",
+    "text": "suppression",
+    "unit": "word",
+    "primary_lesson": null,
+    "syllabus_status": "unverified",
+    "mastery_status": "unassessed",
+    "senses": []
+  },
+  {
+    "id": "W056",
+    "text": "testament",
+    "unit": "word",
+    "primary_lesson": null,
+    "syllabus_status": "unverified",
+    "mastery_status": "unassessed",
+    "senses": []
+  },
+  {
+    "id": "W057",
+    "text": "erode",
+    "unit": "word",
+    "primary_lesson": null,
+    "syllabus_status": "unverified",
+    "mastery_status": "unassessed",
+    "senses": []
+  },
+  {
+    "id": "W058",
+    "text": "ignite",
+    "unit": "word",
+    "primary_lesson": null,
+    "syllabus_status": "unverified",
+    "mastery_status": "unassessed",
+    "senses": []
+  },
+  {
+    "id": "W059",
+    "text": "prescribed",
+    "unit": "word",
+    "primary_lesson": null,
+    "syllabus_status": "unverified",
+    "mastery_status": "unassessed",
+    "senses": []
+  },
+  {
+    "id": "W060",
+    "text": "tactic",
+    "unit": "word",
+    "primary_lesson": null,
+    "syllabus_status": "unverified",
+    "mastery_status": "unassessed",
+    "senses": []
+  },
+  {
+    "id": "W061",
+    "text": "double-edged sword",
+    "unit": "phrase",
+    "primary_lesson": null,
+    "syllabus_status": "unverified",
+    "mastery_status": "unassessed",
+    "senses": []
+  }
+]
+
