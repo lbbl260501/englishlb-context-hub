@@ -45,7 +45,7 @@
     "exam": "English I",
     "year": 2024,
     "section": "Reading Text 4",
-    "verification": "candidate_from_snapshot_unverified"
+    "verification": "cross_checked_2024_exam_pdf_and_third_party_transcript_nonofficial_answers_A_B_A_D_B_see_L002_SOURCE_AUDIT"
   },
   {
     "id": "EXAM-2026-T4",
@@ -53,6 +53,12 @@
     "exam": "English I",
     "year": 2026,
     "section": "Reading Text 4",
-    "verification": "candidate_from_snapshot_unverified"
+    "verification": "cross_checked_2026_third_party_exam_pdf_and_independent_transcript_nonofficial_answers_D_C_B_D_C_see_L002_SOURCE_AUDIT"
+  },
+  {
+    "id": "L002-AUDIT",
+    "kind": "source_audit",
+    "path": "lessons/02-environment-ecology/SOURCE_AUDIT.md",
+    "verification": "verified_sources_exam_transcriptions_and_answer_scope"
   }
 ]
