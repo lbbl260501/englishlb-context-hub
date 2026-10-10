@@ -119,7 +119,8 @@
       "EXAM-2024-T4",
       "EXAM-2026-T4"
     ],
-    "note": "来自用户快照；候选词尚未逐项核验。regulate 与历史样章重复，不得再次当作首次主讲。"
+    "note": "真题、答案、选词和题源交叉核验记录已入仓库；23项候选新词均未登记主讲，regulate 已在 S001 主讲应复习。完整Markdown与9页PDF在本次会话文件中生成，尚未同步GitHub；仓库仅有简版工作稿，status仍为planned。",
+    "draft_source": "lessons/02-environment-ecology/LESSON_DRAFT.md",
+    "source_audit": "lessons/02-environment-ecology/SOURCE_AUDIT.md"
   }
 ]
-
