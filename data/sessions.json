@@ -6,16 +6,25 @@
       "导入L001和S001 PDF",
       "登记38项历史主讲词和L002候选",
       "识别regulate重复",
-      "建立检查和快照生成脚本"
+      "建立检查和快照生成脚本",
+      "初始化26个文件已提交，commit 9849b4e4921805909b1cda8b0883e9376522e860",
+      "两份远程PDF回读与原文件字节一致",
+      "已向原ChatGPT对话发送继续完善项目并制作L002的任务，接收方状态active"
     ],
     "pending": [
-      "将本地初始化内容提交到用户已创建的公开仓库 englishlb-context-hub，然后交接原ChatGPT对话",
       "核验L002试卷及候选词",
       "导入2027官方完整词表",
-      "后续收集实际测验记录"
+      "后续在非公开位置收集实际测验记录"
     ],
     "handoff": "CHAT_HANDOFF.md",
     "repository": "https://github.com/lbbl260501/englishlb-context-hub",
-    "visibility": "public_user_confirmed"
+    "visibility": "public_user_confirmed",
+    "verification": {
+      "data_audit": "passed",
+      "pdf_roundtrip": "both_identical",
+      "chat_handoff": "sent_active",
+      "lesson_L002": "not_yet_completed",
+      "git_clone": "local_network_connection_reset_connector_roundtrip_succeeded"
+    }
   }
 ]
