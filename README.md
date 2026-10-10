@@ -24,3 +24,9 @@ python scripts/build_snapshot.py
 以上脚本只依赖 Python 3 标准库。PDF 原文件保持不变；没有替用户生成任何学习成绩。
 
 ChatGPT 接续文案见 [CHAT_HANDOFF.md](CHAT_HANDOFF.md)，协作规则见 [AGENTS.md](AGENTS.md)，证据边界见 [docs/PROVENANCE.md](docs/PROVENANCE.md)。
+
+## 讲义正文与编辑档案
+
+学生教材只承担学习：背景、真题阅读任务、词汇、句法、练习、详解、答案后双语对照。项目工作记录、数据索引、核验说明置于仓库独立文档，不编译进学生讲义。见 [学生讲义标准](docs/STUDENT_LESSON_STANDARD.md)。
+
+L002 旧九页稿已被学习者指出内容与组织问题，故不作为后续教材的质量范本。修订学生版在确认完整源文件与成品实际上传仓库以前，L002 仍然保留 planned，历史38项主讲统计不变。
