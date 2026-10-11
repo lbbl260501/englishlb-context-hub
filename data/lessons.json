@@ -122,7 +122,7 @@
       "L002-ORIGINAL",
       "L002-RECOVERY"
     ],
-    "note": "53页学生版PDF、LaTeX及Markdown已实际入库并逐字节回读核验；23项首次主讲、3项复习。published仅指仓库版本发布，不代表教师二审、学习者掌握或大纲覆盖完成。",
+    "note": "此前53页学生版已正式入库并登记23项主讲和3项复习；新36页语言能力×阅读×命题×表达重塑版的Tex和Markdown已入库且逐字节Git blob hash核对，PDF只在对话中提供，仍指向旧版53页PDF并保留旧版published状态。",
     "draft_source": "lessons/02-environment-ecology/student/L002_student.tex",
     "source_audit": "lessons/02-environment-ecology/editorial/SOURCE_AUDIT.md",
     "student_markdown": "lessons/02-environment-ecology/student/L002_student.md",
@@ -134,6 +134,16 @@
       "external_teacher_review": "pending",
       "learner_trial": "pending",
       "physical_print_check": "pending"
+    },
+    "rebuilt_edition": {
+      "date": "2026-10-11",
+      "tex": "lessons/02-environment-ecology/student/L002_rebuilt_2026.tex",
+      "markdown": "lessons/02-environment-ecology/student/L002_rebuilt_2026.md",
+      "pdf_in_repository": false,
+      "local_pdf_pages": 36,
+      "local_pdf_sha256": "82436c3ca99694c3f062da3eff801c90c17224b73ecda193cf501ed1ab9247df",
+      "source_verified_with_local_git_blob_sha": true,
+      "publication_status": "editable_sources_synced_pdf_pending"
     }
   },
   {
@@ -189,7 +199,17 @@
       "EXAM-2022-T4",
       "L003-AUDIT"
     ],
-    "note": "2022英语（一）Text 2与Text 4 已核验；本次本地生成50页XeLaTeX学生教材与完整可编辑源码，完整文件尚未远程存储，故暂维持planned；28项新候选未计主讲，5项旧词为复习，不推算大纲覆盖或个人掌握。",
-    "source_audit": "lessons/03-work-career/editorial/SOURCE_AUDIT.md"
+    "note": "2022英语（一）Text2和Text4已核验；39页重塑版Tex和Markdown已入库且核验，PDF仅本次对话可下载，故L003继续planned，28项候选词暂不计主讲；5个已精讲词作复习。",
+    "source_audit": "lessons/03-work-career/editorial/SOURCE_AUDIT.md",
+    "rebuilt_edition": {
+      "date": "2026-10-11",
+      "tex": "lessons/03-work-career/student/L003_rebuilt_2026.tex",
+      "markdown": "lessons/03-work-career/student/L003_rebuilt_2026.md",
+      "pdf_in_repository": false,
+      "local_pdf_pages": 39,
+      "local_pdf_sha256": "63c8dd633629434c8a9df84f90a39b9a2694a8839fd02116572ab32c91e56528",
+      "source_verified_with_local_git_blob_sha": true,
+      "publication_status": "editable_sources_synced_pdf_pending"
+    }
   }
 ]
