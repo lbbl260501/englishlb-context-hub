@@ -34,3 +34,6 @@ L002 旧九页稿已被学习者指出内容与组织问题，故不作为后续
 ## L003｜工作与职业（2026-10-11）
 已核验 2022 英语（一）Text 2（学历与职业发展）与Text 4（解雇保护与生产率），并建立 [独立来源审计](lessons/03-work-career/editorial/SOURCE_AUDIT.md)。
 本次对话已本地编译50页学生用XeLaTeX讲义，含完整源文件及双语附录；**远程仓库尚未上传完整版PDF与.tex**。本仓库已登记28项待主讲新候选词、5项旧词复习，L003维持 `planned`，不能将候选误算为已教。具体状态见 [CONTEXT_SNAPSHOT.md](CONTEXT_SNAPSHOT.md)。
+
+## L002/L003 语言能力优先重塑版（2026-10-11）
+两册**完整、已验证的可编辑源码**已加入仓库：[L002 XeLaTeX](lessons/02-environment-ecology/student/L002_rebuilt_2026.tex) / [Markdown](lessons/02-environment-ecology/student/L002_rebuilt_2026.md)，[L003 XeLaTeX](lessons/03-work-career/student/L003_rebuilt_2026.tex) / [Markdown](lessons/03-work-career/student/L003_rebuilt_2026.md)。本次新的36页、39页PDF已在ChatGPT对话提供下载，但**尚未提交GitHub二进制文件**，不能把它们等同远程已发布PDF。L002现行53页版本继续有效，L003维持planned，28项候选不计首次主讲。详细编辑记录见 [两册重塑档案](docs/REBUILD_L002_L003_2026-10-11.md)。
