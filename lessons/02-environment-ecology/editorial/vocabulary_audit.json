@@ -1,0 +1,213 @@
+{
+  "date": "2026-10-11",
+  "comparison": "all 38 historically primary lexeme units including S001; word families not silently merged",
+  "new_candidates": 23,
+  "review": 3,
+  "rows": [
+    {
+      "lexeme_id": "W039",
+      "headword": "filter",
+      "historical_primary": null,
+      "classification": "new_primary_candidate",
+      "profile_number": "01",
+      "evidence": "student/L002_student.tex; profile 01; bilingual examples 01-1/2"
+    },
+    {
+      "lexeme_id": "W040",
+      "headword": "authority",
+      "historical_primary": null,
+      "classification": "new_primary_candidate",
+      "profile_number": "02",
+      "evidence": "student/L002_student.tex; profile 02; bilingual examples 02-1/2"
+    },
+    {
+      "lexeme_id": "W041",
+      "headword": "scope",
+      "historical_primary": null,
+      "classification": "new_primary_candidate",
+      "profile_number": "03",
+      "evidence": "student/L002_student.tex; profile 03; bilingual examples 03-1/2"
+    },
+    {
+      "lexeme_id": "W042",
+      "headword": "at odds with",
+      "historical_primary": null,
+      "classification": "new_primary_candidate",
+      "profile_number": "04",
+      "evidence": "student/L002_student.tex; profile 04; bilingual examples 04-1/2"
+    },
+    {
+      "lexeme_id": "W043",
+      "headword": "repercussion",
+      "historical_primary": null,
+      "classification": "new_primary_candidate",
+      "profile_number": "05",
+      "evidence": "student/L002_student.tex; profile 05; bilingual examples 05-1/2"
+    },
+    {
+      "lexeme_id": "W044",
+      "headword": "jurisdiction",
+      "historical_primary": null,
+      "classification": "new_primary_candidate",
+      "profile_number": "06",
+      "evidence": "student/L002_student.tex; profile 06; bilingual examples 06-1/2"
+    },
+    {
+      "lexeme_id": "W045",
+      "headword": "shortsighted",
+      "historical_primary": null,
+      "classification": "new_primary_candidate",
+      "profile_number": "07",
+      "evidence": "student/L002_student.tex; profile 07; bilingual examples 07-1/2"
+    },
+    {
+      "lexeme_id": "W046",
+      "headword": "transcend",
+      "historical_primary": null,
+      "classification": "new_primary_candidate",
+      "profile_number": "08",
+      "evidence": "student/L002_student.tex; profile 08; bilingual examples 08-1/2"
+    },
+    {
+      "lexeme_id": "W047",
+      "headword": "runoff",
+      "historical_primary": null,
+      "classification": "new_primary_candidate",
+      "profile_number": "09",
+      "evidence": "student/L002_student.tex; profile 09; bilingual examples 09-1/2"
+    },
+    {
+      "lexeme_id": "W048",
+      "headword": "call on",
+      "historical_primary": null,
+      "classification": "new_primary_candidate",
+      "profile_number": "10",
+      "evidence": "student/L002_student.tex; profile 10; bilingual examples 10-1/2"
+    },
+    {
+      "lexeme_id": "W049",
+      "headword": "stakes",
+      "historical_primary": null,
+      "classification": "new_primary_candidate",
+      "profile_number": "11",
+      "evidence": "student/L002_student.tex; profile 11; bilingual examples 11-1/2"
+    },
+    {
+      "lexeme_id": "W050",
+      "headword": "mandate",
+      "historical_primary": null,
+      "classification": "new_primary_candidate",
+      "profile_number": "12",
+      "evidence": "student/L002_student.tex; profile 12; bilingual examples 12-1/2"
+    },
+    {
+      "lexeme_id": "W051",
+      "headword": "curb",
+      "historical_primary": null,
+      "classification": "new_primary_candidate",
+      "profile_number": "13",
+      "evidence": "student/L002_student.tex; profile 13; bilingual examples 13-1/2"
+    },
+    {
+      "lexeme_id": "W052",
+      "headword": "peter out",
+      "historical_primary": null,
+      "classification": "new_primary_candidate",
+      "profile_number": "14",
+      "evidence": "student/L002_student.tex; profile 14; bilingual examples 14-1/2"
+    },
+    {
+      "lexeme_id": "W053",
+      "headword": "compile",
+      "historical_primary": null,
+      "classification": "new_primary_candidate",
+      "profile_number": "15",
+      "evidence": "student/L002_student.tex; profile 15; bilingual examples 15-1/2"
+    },
+    {
+      "lexeme_id": "W054",
+      "headword": "shortfall",
+      "historical_primary": null,
+      "classification": "new_primary_candidate",
+      "profile_number": "16",
+      "evidence": "student/L002_student.tex; profile 16; bilingual examples 16-1/2"
+    },
+    {
+      "lexeme_id": "W055",
+      "headword": "suppression",
+      "historical_primary": null,
+      "classification": "new_primary_candidate",
+      "profile_number": "17",
+      "evidence": "student/L002_student.tex; profile 17; bilingual examples 17-1/2"
+    },
+    {
+      "lexeme_id": "W056",
+      "headword": "testament",
+      "historical_primary": null,
+      "classification": "new_primary_candidate",
+      "profile_number": "18",
+      "evidence": "student/L002_student.tex; profile 18; bilingual examples 18-1/2"
+    },
+    {
+      "lexeme_id": "W057",
+      "headword": "erode",
+      "historical_primary": null,
+      "classification": "new_primary_candidate",
+      "profile_number": "19",
+      "evidence": "student/L002_student.tex; profile 19; bilingual examples 19-1/2"
+    },
+    {
+      "lexeme_id": "W058",
+      "headword": "ignite",
+      "historical_primary": null,
+      "classification": "new_primary_candidate",
+      "profile_number": "20",
+      "evidence": "student/L002_student.tex; profile 20; bilingual examples 20-1/2"
+    },
+    {
+      "lexeme_id": "W059",
+      "headword": "prescribed",
+      "historical_primary": null,
+      "classification": "new_primary_candidate",
+      "profile_number": "21",
+      "evidence": "student/L002_student.tex; profile 21; bilingual examples 21-1/2"
+    },
+    {
+      "lexeme_id": "W060",
+      "headword": "tactic",
+      "historical_primary": null,
+      "classification": "new_primary_candidate",
+      "profile_number": "22",
+      "evidence": "student/L002_student.tex; profile 22; bilingual examples 22-1/2"
+    },
+    {
+      "lexeme_id": "W061",
+      "headword": "double-edged sword",
+      "historical_primary": null,
+      "classification": "new_primary_candidate",
+      "profile_number": "23",
+      "evidence": "student/L002_student.tex; profile 23; bilingual examples 23-1/2"
+    },
+    {
+      "lexeme_id": "W036",
+      "headword": "regulate",
+      "historical_primary": "S001",
+      "classification": "review",
+      "evidence": "student/L002_student.tex; cross-lesson review R01–R03"
+    },
+    {
+      "lexeme_id": "W019",
+      "headword": "resilient",
+      "historical_primary": "L001",
+      "classification": "review",
+      "evidence": "student/L002_student.tex; cross-lesson review R01–R03"
+    },
+    {
+      "lexeme_id": "W007",
+      "headword": "subsequent",
+      "historical_primary": "L001",
+      "classification": "review",
+      "evidence": "student/L002_student.tex; cross-lesson review R01–R03"
+    }
+  ]
+}

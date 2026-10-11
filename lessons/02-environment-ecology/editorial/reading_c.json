@@ -1,0 +1,172 @@
+{
+  "kind": "original_fictional_teaching_material",
+  "paragraphs": [
+    {
+      "en": "A university library introduced automatic renewal to reduce the number of overdue books. Unless another reader requested an item, its loan period would be extended without any action by the borrower. After one term, overdue notices had fallen sharply. Administrators described the decline as evidence that students were managing their borrowing more responsibly. The new system also saved staff time, allowing them to answer more research enquiries. On these measures, the change looked like an obvious success.",
+      "zh": "某大学图书馆为减少逾期图书引入了自动续借。除非有其他读者预约某本书，否则借期会自动延长，借阅者无须操作。一个学期后，逾期通知大幅减少。管理人员将此视为学生更负责任地管理借阅的证据。新系统还节省了工作人员的时间，让他们能回答更多研究咨询。按这些指标看，这项改变显然取得了成功。"
+    },
+    {
+      "en": "Yet a student committee questioned what the figures actually showed. Under the old rules, a book became overdue after a fixed period. Under the new rules, the same book could remain on loan for much longer without generating a notice. The committee did not deny that fewer warnings were welcome. It argued that a change in the definition of a recorded problem should not be confused with a change in the behaviour that had previously produced it.",
+      "zh": "然而，学生委员会质疑这些数字究竟说明了什么。按照旧规则，借阅超过固定期限便算逾期；按照新规则，同一本书可以被借走更久而不触发通知。委员会并不否认警告减少是好事。它认为，记录某个问题的定义发生变化，不应与过去产生这一问题的行为发生变化混为一谈。"
+    },
+    {
+      "en": "To examine access more directly, the library compiled data on requests, waiting times and unsuccessful searches. Some readers received popular books sooner because the request system brought those books back. Others waited longer for less popular titles that remained with borrowers who no longer needed them. These mixed findings did not establish that automatic renewal had failed. They suggested that the benefits depended partly on how easily readers could discover and request material that was not on the shelves.",
+      "zh": "为更直接地考察获取图书的情况，图书馆汇集了预约、等待时间和未找到所需资料的检索记录。一些读者更快拿到了热门书，因为预约系统促使这些书被归还。另一些读者却要更久地等待冷门书，这些书还留在已不再需要它们的借阅者手中。这些有好有坏的发现并不能证明自动续借失败了。它们提示，收益部分取决于读者能否方便地发现并预约不在书架上的资料。"
+    },
+    {
+      "en": "The committee called on the library to retain automatic renewal while making requests more visible in its catalogue. It also proposed a reminder asking borrowers whether they still needed a book. Some staff worried that extra messages would erode the simplicity students valued. The library therefore tested the reminder with a small group before deciding whether to extend it. A useful tactic in one setting, it reasoned, might create an unnecessary burden in another.",
+      "zh": "委员会呼吁图书馆保留自动续借，同时在目录中更醒目地显示预约功能。它还提议发送提醒，询问借阅者是否仍需要某本书。一些工作人员担心额外信息会削弱学生所看重的简便性。因此，图书馆先在一个小群体中试行提醒，再决定是否推广。它认为，在一种情境下有用的做法，在另一种情境下可能造成不必要的负担。"
+    },
+    {
+      "en": "The lesson was not that numerical targets should be abandoned. Without records, unequal access might have remained invisible. Rather, institutions needed to ask whether a reported improvement reflected better service, altered recording rules, or both. A policy could curb one inconvenience while creating another; evaluating it required following the experience of users, not simply celebrating the disappearance of an administrative warning.",
+      "zh": "这里的启示并非应当放弃数字目标。没有记录，获取机会的不均等可能一直不被察觉。机构需要追问的是，报告中的改善究竟反映服务变好了、记录规则变了，还是两者都有。一项政策可能减少一种不便，同时产生另一种不便；评价政策需要跟踪使用者的体验，而不能只庆祝管理警告的消失。"
+    }
+  ],
+  "questions": [
+    {
+      "id": "C1",
+      "stem_en": "What does the committee question about the decline in overdue notices?",
+      "stem_zh": "委员会对逾期通知减少提出了什么质疑？",
+      "options": [
+        {
+          "label": "A",
+          "en": "It necessarily indicates more responsible borrowing.",
+          "zh": "它必然表明借阅行为更加负责任。"
+        },
+        {
+          "label": "B",
+          "en": "It reduced the time available for research enquiries.",
+          "zh": "它减少了回答研究咨询的时间。"
+        },
+        {
+          "label": "C",
+          "en": "It followed the introduction of automatic renewal.",
+          "zh": "它发生在引入自动续借之后。"
+        },
+        {
+          "label": "D",
+          "en": "It was welcomed by some library users.",
+          "zh": "它受到部分图书馆使用者的欢迎。"
+        }
+      ],
+      "answer": "A",
+      "explanation_zh": "P1—P2。A是委员会质疑的推断，而非作者认可的事实：通知减少也可能来自记账规则变化。B与节省工作人员时间相反；C是双方接受的先后事实；D并非争议焦点，委员会明确不否认减少警告的好处。"
+    },
+    {
+      "id": "C2",
+      "stem_en": "Why are less popular books mentioned in Paragraph 3?",
+      "stem_zh": "第3段为什么提到冷门书？",
+      "options": [
+        {
+          "label": "A",
+          "en": "To show that all borrowers prefer popular titles.",
+          "zh": "说明所有借阅者都更喜欢热门书。"
+        },
+        {
+          "label": "B",
+          "en": "To establish that loan periods should never be extended.",
+          "zh": "证明借期永远不应延长。"
+        },
+        {
+          "label": "C",
+          "en": "To illustrate differences in the effects on access.",
+          "zh": "说明政策对获取图书的影响存在差异。"
+        },
+        {
+          "label": "D",
+          "en": "To suggest that search records should be discarded.",
+          "zh": "建议丢弃检索记录。"
+        }
+      ],
+      "answer": "C",
+      "explanation_zh": "P3对照热门书与冷门书的等待时间。C涵盖两类结果；A把一个例子扩大成所有人的偏好；B把某些人的等待延长升级为一律禁止；D与收集数据来发现差异的做法相反。"
+    },
+    {
+      "id": "C3",
+      "stem_en": "The proposed reminder was tested with a small group because _____.",
+      "stem_zh": "所提议的提醒先在小群体中试行，是因为什么？",
+      "options": [
+        {
+          "label": "A",
+          "en": "staff had proved that students disliked every message",
+          "zh": "工作人员已证明学生讨厌所有消息"
+        },
+        {
+          "label": "B",
+          "en": "the library wanted to examine a possible trade-off",
+          "zh": "图书馆想考察一种可能的利弊权衡"
+        },
+        {
+          "label": "C",
+          "en": "the committee wanted automatic renewal cancelled",
+          "zh": "委员会希望取消自动续借"
+        },
+        {
+          "label": "D",
+          "en": "all books had already returned to the shelves",
+          "zh": "所有书都已经归架"
+        }
+      ],
+      "answer": "B",
+      "explanation_zh": "P4同时提出促进归还的设想与额外信息负担的担忧。B保留“需要考察”的不确定性；A把担忧写成证明并扩大到所有消息；C与保留自动续借的建议相反；D没有依据。"
+    },
+    {
+      "id": "C4",
+      "stem_en": "Which claim is supported by the text?",
+      "stem_zh": "哪一项说法得到文章支持？",
+      "options": [
+        {
+          "label": "A",
+          "en": "A fall in warnings proves that access has improved for everyone.",
+          "zh": "警告减少证明每个人获取图书都更方便了。"
+        },
+        {
+          "label": "B",
+          "en": "Changing recording rules cannot affect reported performance.",
+          "zh": "改变记录规则不会影响报告中的表现。"
+        },
+        {
+          "label": "C",
+          "en": "Mixed results make further evaluation unnecessary.",
+          "zh": "结果有好有坏便无须继续评价。"
+        },
+        {
+          "label": "D",
+          "en": "Service improvements and changes in recording may occur together.",
+          "zh": "服务改善与记录方式改变可能同时发生。"
+        }
+      ],
+      "answer": "D",
+      "explanation_zh": "P5明确要求区分服务、记录规则及二者共同作用。D不把二者设为互斥；A从单一指标推出人人获益；B否认了P2的机制；C把继续调查的理由变成停止调查的理由。"
+    },
+    {
+      "id": "C5",
+      "stem_en": "Which title best captures the author's argument?",
+      "stem_zh": "哪个标题最能概括作者的论点？",
+      "options": [
+        {
+          "label": "A",
+          "en": "The Case for Ending All Library Targets",
+          "zh": "取消图书馆所有目标的理由"
+        },
+        {
+          "label": "B",
+          "en": "Why Borrowers Should Stop Requesting Books",
+          "zh": "借阅者为何应停止预约"
+        },
+        {
+          "label": "C",
+          "en": "When Fewer Warnings Need a Closer Look",
+          "zh": "警告减少时仍须仔细审视"
+        },
+        {
+          "label": "D",
+          "en": "Automatic Renewal as a Complete Failure",
+          "zh": "自动续借的彻底失败"
+        }
+      ],
+      "answer": "C",
+      "explanation_zh": "C串起指标变化、机制核查与使用者体验。A被末段开头明确排除；B颠倒了让预约更方便的建议；D将不均衡结果夸大成彻底失败，抹去了节省时间和部分等待缩短的收益。"
+    }
+  ]
+}

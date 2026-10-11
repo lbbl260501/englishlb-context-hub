@@ -11,5 +11,9 @@ print("Previously taught candidates; use review or verified sense extension:", l
 for word in repeated:
     print("  ", word["text"], "->", word["primary_lesson"])
 print("Already planned review:", ", ".join(w["text"] for w in review))
-print("All candidates still require verification against exam text and options.")
+print("Lesson status:", lesson["status"])
+if lesson["candidate_words"]:
+    print("Candidates are not published primary records; consult the source and vocabulary audits.")
+else:
+    print("No pending candidate words in this lesson; consult primary/review records for published teaching.")
 

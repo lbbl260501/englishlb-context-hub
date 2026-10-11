@@ -18,5 +18,24 @@
     "original_filename": "CONTEXT_SNAPSHOT.md",
     "sha256": "732c1df7be7b39390251f68e59ead301d16d12c4f0a7ac14ca08c3345c8aaba4",
     "bytes": 2505
+  },
+  {
+    "path": "lessons/02-environment-ecology/student/L002_student.pdf",
+    "original_filename": "L002_student.pdf",
+    "sha256": "29a04886baaf32d236904f170731acfa1b1a5aa5d808dff0f3eb7604d2f50198",
+    "bytes": 696759,
+    "pages": 53
+  },
+  {
+    "path": "lessons/02-environment-ecology/student/L002_student.tex",
+    "original_filename": "L002_student.tex",
+    "sha256": "73da06a38c9c1c74725cefb3b0d02417f226fbf918a41ba0e1f5e0f8f9b86beb",
+    "bytes": 144395
+  },
+  {
+    "path": "lessons/02-environment-ecology/student/L002_student.md",
+    "original_filename": "L002_student.md",
+    "sha256": "8621776e25f7a747f1d1281347dc1399ab740a866a28dd75f7eeaece0cfe2530",
+    "bytes": 116454
   }
 ]

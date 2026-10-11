@@ -1,0 +1,56 @@
+{
+  "date": "2026-10-11",
+  "recovered_files": [
+    {
+      "filename": "L002_学生讲义_修订版.md",
+      "bytes": 90454,
+      "sha256": "e37984c2a99f1bf8f59917e99fdc8e3b4a7ce6137a75fd24b375e7cab59ebcef"
+    },
+    {
+      "filename": "L002_学生讲义_修订版.md.openai-download-f93e54131fad4fefb66c684f7982677b",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "filename": "L002_环境与生态_LaTeX源码与PDF.zip",
+      "bytes": 706935,
+      "sha256": "a6aa856659be9ed6f0389af0f8e9630816672ae0d3e747666b89ad002069f665"
+    },
+    {
+      "filename": "L002_环境与生态_LaTeX源码与PDF.zip.openai-download-7fec04d45c3044529963774ea7832dfe",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "filename": "L002_环境与生态_LaTeX版.pdf",
+      "bytes": 700522,
+      "sha256": "3c1d37be3fa534a1ca160c7d277c4b40290828a2f5ddf0ddc70c6aac385a2797"
+    },
+    {
+      "filename": "L002_环境与生态_LaTeX版.tex",
+      "bytes": 106644,
+      "sha256": "c39e5c6dd24019cf1714c025a729b8883ace96000bb5b18d8771280c69f54ae2"
+    },
+    {
+      "filename": "L002_环境与生态_修订版_完整资料.zip",
+      "bytes": 881017,
+      "sha256": "43f3774777e8ff7f736d8c0da3144e7fe23235248dde6f32c20c66a19d37985e"
+    },
+    {
+      "filename": "L002_环境与生态_修订版_完整资料.zip.openai-download-8b05cf57266c41aeb8dd76e7b179d756",
+      "bytes": 65536,
+      "sha256": "fa356b21e20b2f8b3498530b2a7ba6b128d8b3dfd7643d7f65aad3e8dcb071bf"
+    },
+    {
+      "filename": "L002_环境与生态_学生讲义_修订版.docx",
+      "bytes": 69841,
+      "sha256": "9eca9c8bd1e1a6f3d4ad69090c601ad6018846d7ee569487345e789d61d9b5f0"
+    },
+    {
+      "filename": "L002_环境与生态_学生讲义_修订版.pdf",
+      "bytes": 989731,
+      "sha256": "3b003ca05e1362567d2c6ab544bff5c42a0df7c6bc00be42dfc7bedb858f5c6a"
+    }
+  ],
+  "note": "Recovered existing files; no chat identifiers or private paths included. Final student files are edited derivatives, not byte-identical copies."
+}

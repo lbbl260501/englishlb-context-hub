@@ -1,0 +1,338 @@
+[
+  {
+    "id": "D01",
+    "question_markdown": "The ruling narrowed the scope of federal oversight.\n\n*What changed?*\n\nA. The physical size of the wetlands.\n\nB. The range of federal oversight.\n\nC. The amount of rainfall.\n\nD. The number of state governments.",
+    "answer_letter": "B",
+    "answer_and_explanation_zh": "scope 指覆盖范围，不是湿地实际大小。 A把制度范围换成实际面积；C是天气量；D是政府数量，后三者均未在句中改变。"
+  },
+  {
+    "id": "D02",
+    "question_markdown": "The proposal was at odds with the findings of earlier studies.\n\n*The relationship between the proposal and the evidence is one of _____.*\n\nA. agreement\n\nB. uncertainty\n\nC. conflict\n\nD. repetition",
+    "answer_letter": "C",
+    "answer_and_explanation_zh": "at odds with 直接给出不一致的关系。 A颠倒关系；B把已表明的冲突弱化成不确定；D是重复而非不一致。"
+  },
+  {
+    "id": "D03",
+    "question_markdown": "Measures that curb pollution do not necessarily remove every source of it.\n\n*Which statement follows?*\n\nA. The measures may reduce but not eliminate pollution.\n\nB. The measures have no effect on pollution.\n\nC. All pollution sources have disappeared.\n\nD. The measures always increase pollution.",
+    "answer_letter": "A",
+    "answer_and_explanation_zh": "curb 与 eliminate 不等价；does not necessarily 是否定必然性。 B把部分作用抹成无作用；C把未必清除全部改成已经全部消失；D反转作用方向并增加总是。"
+  },
+  {
+    "id": "D04",
+    "question_markdown": "A policy meant to reduce short-term harm may create risks that emerge only later.\n\n*What does the sentence emphasize?*\n\nA. The absence of policy benefits.\n\nB. The certainty of policy failure.\n\nC. The difficulty of passing new laws.\n\nD. The possible tension between immediate and later effects.",
+    "answer_letter": "D",
+    "answer_and_explanation_zh": "may 是可能性；短期目的不保证长期后果。 A否认了可能的短期收益；B把 may 升级成必然；C引入未提到的立法难度。"
+  },
+  {
+    "id": "A1",
+    "question_markdown": "What did the town discover as storms grew stronger?\n\nA. Most flooding resulted from faulty pipes alone.\n\nB. Some floodwater originated outside the town.\n\nC. Wider streets could prevent damage more effectively.\n\nD. Residents had stopped supporting drainage projects.",
+    "answer_letter": "B",
+    "answer_and_explanation_zh": "第一段的转向不否定已有排水措施，而是补充了“外部来水”。A把原因缩成单一管道问题；C无据；D没有居民反对的事实。"
+  },
+  {
+    "id": "A2",
+    "question_markdown": "The effect of surrounding development is mainly explained by its impact on _____.\n\nA. the speed and amount of runoff\n\nB. the level of public housing demand\n\nC. the quality of local tax services\n\nD. the number of regional officials",
+    "answer_letter": "A",
+    "answer_and_explanation_zh": "第二段有完整的因果链：植被减少→地表吸水下降→径流更快更多→下游承压。正确项概括了中间机制，其余项与解释无关。 逐项看：B用住房需求替代水文机制；C的税收服务未被讨论；D引入官员人数。"
+  },
+  {
+    "id": "A3",
+    "question_markdown": "Why does the author acknowledge the builders' objections?\n\nA. To argue that wetlands provide no useful services.\n\nB. To prove that the town has unlimited regulatory power.\n\nC. To recognize competing needs and legal limits.\n\nD. To recommend abandoning all regional cooperation.",
+    "answer_letter": "C",
+    "answer_and_explanation_zh": "第三段并未把一方妖魔化，而是承认住房需求与法律权限问题。C准确兼顾两个限定；A、B、D是过度化。 A否定湿地价值，B声称无限权限，均与文意相反；D要求放弃地区合作，而文章正解释为何需要跨区评估。"
+  },
+  {
+    "id": "A4",
+    "question_markdown": "The problem with assessing each development separately is that _____.\n\nA. the benefits of new homes cannot be measured\n\nB. the local government cannot collect rainfall data\n\nC. some projects have no direct environmental effects\n\nD. benefits and costs may fall on different communities",
+    "answer_letter": "D",
+    "answer_and_explanation_zh": "第四段强调外部性：上游开发，下游受损，承担修管费用者未必能影响源头决策。D概括这一结构；A、B、C均不属于段落主旨。 A和B分别增加收益无法测量及不能收集雨量的说法；C谈有无直接影响，遗漏成本转移这一中心关系。"
+  },
+  {
+    "id": "A5",
+    "question_markdown": "Which of the following best expresses the author's view?\n\nA. Problems that cross boundaries require broader assessment.\n\nB. Environmental rules should always replace housing policies.\n\nC. Local drainage improvements are now unnecessary.\n\nD. Any regional review will settle every disagreement.\n\n\n**读后复盘**　写出该文的“现象—解释—争议—作者判断”。题目做完后，把你认为最容易误选的一项圈出来，并写出它比原文多说了什么。",
+    "answer_letter": "A",
+    "answer_and_explanation_zh": "末段明确保留“排水工程和住房仍有价值”，主张扩展影响评估的尺度；B/C/D分别是绝对化、否定原有措施与夸大作用。"
+  },
+  {
+    "id": "B1",
+    "question_markdown": "Why had the county's fire policy seemed successful?\n\nA. It prevented all changes in forest conditions.\n\nB. It eliminated the need for professional fire crews.\n\nC. Recorded fires fell and property losses were limited.\n\nD. It made prescribed burns widely accepted.",
+    "answer_letter": "C",
+    "answer_and_explanation_zh": "第一段明确给出两项衡量结果：火灾记录下降、财产损失有限。它们说明过去政策具有现实收益，但不证明长期风险也最小。 A把财产损失有限扩大为森林毫无变化；B与专业队伍积极扑火冲突；D把后文的新政策移到过去。"
+  },
+  {
+    "id": "B2",
+    "question_markdown": "The researchers' comparison of old and recent records indicated that _____.\n\nA. many small fires once contributed to forest renewal\n\nB. early forests experienced no destructive fires\n\nC. tree-ring evidence was too unreliable to be useful\n\nD. fire activity remained unchanged over time",
+    "answer_letter": "A",
+    "answer_and_explanation_zh": "第二段列出低烈度火的生态作用，A是谨慎概括；B/C/D均与文章事实冲突。 B把许多小火的益处夸成从无破坏性火灾；C否定文章实际使用的证据；D否定历史与近期记录的差异。"
+  },
+  {
+    "id": "B3",
+    "question_markdown": "What does the author suggest about the number of fires?\n\nA. It provides a complete measure of environmental safety.\n\nB. It is irrelevant to evaluating fire policy.\n\nC. It should replace all measures of property damage.\n\nD. It cannot alone show how safe a forest has become.",
+    "answer_letter": "D",
+    "answer_and_explanation_zh": "第三段明确把频率、严重程度与损失区分开，D准确表达“单一指标不足”；B又把“不充分”扭成“完全没用”。 A把单一指标说成充分；C要求取代损失指标，文中没有这种主张。"
+  },
+  {
+    "id": "B4",
+    "question_markdown": "Residents' concerns about prescribed burns are described as _____.\n\nA. proof that the entire plan should be cancelled\n\nB. practical issues to be managed in implementation\n\nC. misunderstandings caused only by poor education\n\nD. evidence that suppression is always preferable",
+    "answer_letter": "B",
+    "answer_and_explanation_zh": "第四段先列风险，再说明具体的条件限制和延期措施。作者既未否认风险，也未主张因此彻底放弃计划。 A把执行风险升级成必须取消；C将实际风险全归为教育不足；D在有限情境外添加始终更好。"
+  },
+  {
+    "id": "B5",
+    "question_markdown": "The main lesson of the text is that fire management should _____.\n\nA. focus solely on reducing annual fire counts\n\nB. ignore economic costs in favour of natural processes\n\nC. weigh immediate safety and long-term resilience together\n\nD. allow every fire to burn without restriction\n\n\n**读后复盘**　写出该文的“现象—解释—争议—作者判断”。题目做完后，把你认为最容易误选的一项圈出来，并写出它比原文多说了什么。",
+    "answer_letter": "C",
+    "answer_and_explanation_zh": "最后一段从单一指标转向多维评价，强调眼前安全、森林健康和未来风险；C保留了完整限定。 A仍只算次数；B忽略成本，而文章要求权衡；D从有计划干预变成所有火不受限制地燃烧。"
+  },
+  {
+    "id": "C1",
+    "question_markdown": "What does the committee question about the decline in overdue notices?\n\nA. It necessarily indicates more responsible borrowing.\n\nB. It reduced the time available for research enquiries.\n\nC. It followed the introduction of automatic renewal.\n\nD. It was welcomed by some library users.",
+    "answer_letter": "A",
+    "answer_and_explanation_zh": "P1—P2。A是委员会质疑的推断，而非作者认可的事实：通知减少也可能来自记账规则变化。B与节省工作人员时间相反；C是双方接受的先后事实；D并非争议焦点，委员会明确不否认减少警告的好处。"
+  },
+  {
+    "id": "C2",
+    "question_markdown": "Why are less popular books mentioned in Paragraph 3?\n\nA. To show that all borrowers prefer popular titles.\n\nB. To establish that loan periods should never be extended.\n\nC. To illustrate differences in the effects on access.\n\nD. To suggest that search records should be discarded.",
+    "answer_letter": "C",
+    "answer_and_explanation_zh": "P3对照热门书与冷门书的等待时间。C涵盖两类结果；A把一个例子扩大成所有人的偏好；B把某些人的等待延长升级为一律禁止；D与收集数据来发现差异的做法相反。"
+  },
+  {
+    "id": "C3",
+    "question_markdown": "The proposed reminder was tested with a small group because _____.\n\nA. staff had proved that students disliked every message\n\nB. the library wanted to examine a possible trade-off\n\nC. the committee wanted automatic renewal cancelled\n\nD. all books had already returned to the shelves",
+    "answer_letter": "B",
+    "answer_and_explanation_zh": "P4同时提出促进归还的设想与额外信息负担的担忧。B保留“需要考察”的不确定性；A把担忧写成证明并扩大到所有消息；C与保留自动续借的建议相反；D没有依据。"
+  },
+  {
+    "id": "C4",
+    "question_markdown": "Which claim is supported by the text?\n\nA. A fall in warnings proves that access has improved for everyone.\n\nB. Changing recording rules cannot affect reported performance.\n\nC. Mixed results make further evaluation unnecessary.\n\nD. Service improvements and changes in recording may occur together.",
+    "answer_letter": "D",
+    "answer_and_explanation_zh": "P5明确要求区分服务、记录规则及二者共同作用。D不把二者设为互斥；A从单一指标推出人人获益；B否认了P2的机制；C把继续调查的理由变成停止调查的理由。"
+  },
+  {
+    "id": "C5",
+    "question_markdown": "Which title best captures the author's argument?\n\nA. The Case for Ending All Library Targets\n\nB. Why Borrowers Should Stop Requesting Books\n\nC. When Fewer Warnings Need a Closer Look\n\nD. Automatic Renewal as a Complete Failure\n\n**迁移任务**　用中文说明：本篇的“逾期通知减少”与野火篇的“火灾次数减少”有什么共同的阅读陷阱？再指出两篇的不同机制，避免机械套模板。",
+    "answer_letter": "C",
+    "answer_and_explanation_zh": "C串起指标变化、机制核查与使用者体验。A被末段开头明确排除；B颠倒了让预约更方便的建议；D将不均衡结果夸大成彻底失败，抹去了节省时间和部分等待缩短的收益。"
+  },
+  {
+    "id": "V01",
+    "question_markdown": "The committee will ______ information from several agencies before reaching a decision.",
+    "answer_letter": null,
+    "answer_and_explanation_zh": "compile。先有分散材料，后汇集整理。"
+  },
+  {
+    "id": "V02",
+    "question_markdown": "The river runs through three separate ______, making joint management difficult.",
+    "answer_letter": null,
+    "answer_and_explanation_zh": "jurisdictions。注意复数。"
+  },
+  {
+    "id": "V03",
+    "question_markdown": "Over the past year, a lack of investment has gradually ______ confidence in the service.",
+    "answer_letter": null,
+    "answer_and_explanation_zh": "eroded。has 后用过去分词构成现在完成时；gradually 与逐渐削弱的含义呼应。"
+  },
+  {
+    "id": "V04",
+    "question_markdown": "Heavy rain carried polluted ______ from farms into the lake.",
+    "answer_letter": null,
+    "answer_and_explanation_zh": "runoff。可作不可数名词，强调径流。"
+  },
+  {
+    "id": "V05",
+    "question_markdown": "The study lies outside the ______ of the current review.",
+    "answer_letter": null,
+    "answer_and_explanation_zh": "scope。固定结构 outside the scope of。"
+  },
+  {
+    "id": "V06",
+    "question_markdown": "Yesterday, the editorial ______ officials to consider the interests of nearby residents.",
+    "answer_letter": null,
+    "answer_and_explanation_zh": "called on。call on sb. to do。"
+  },
+  {
+    "id": "V07",
+    "question_markdown": "The budget ______ led to a delay in repairing damaged bridges.",
+    "answer_letter": null,
+    "answer_and_explanation_zh": "shortfall。shortfall 是有比较基准的不足。"
+  },
+  {
+    "id": "V08",
+    "question_markdown": "The new law gave the agency the ______ to inspect unsafe buildings.",
+    "answer_letter": null,
+    "answer_and_explanation_zh": "authority。法律赋权，不是专家权威。"
+  },
+  {
+    "id": "V09",
+    "question_markdown": "The small fire ______ when it reached a patch of wet ground.",
+    "answer_letter": null,
+    "answer_and_explanation_zh": "petered out。固定短语 peter out。"
+  },
+  {
+    "id": "V10",
+    "question_markdown": "The plan was criticized as ______ because it ignored maintenance costs.",
+    "answer_letter": null,
+    "answer_and_explanation_zh": "shortsighted。作者评价语，注意原因。"
+  },
+  {
+    "id": "V11",
+    "question_markdown": "The fire service carried out a ______ burn under suitable weather conditions.",
+    "answer_letter": null,
+    "answer_and_explanation_zh": "prescribed。固定专业搭配 prescribed burn。"
+  },
+  {
+    "id": "V12",
+    "question_markdown": "The decision could have unexpected ______ for towns downstream.",
+    "answer_letter": null,
+    "answer_and_explanation_zh": "repercussions。常用复数。"
+  },
+  {
+    "id": "V13",
+    "question_markdown": "New measures were introduced to ______ the spread of the disease.",
+    "answer_letter": null,
+    "answer_and_explanation_zh": "curb。强调抑制不是完全根除。"
+  },
+  {
+    "id": "V14",
+    "question_markdown": "The two departments appeared to be ______ one another.",
+    "answer_letter": null,
+    "answer_and_explanation_zh": "at odds with。at odds with 固定短语。"
+  },
+  {
+    "id": "V15",
+    "question_markdown": "Several years of fire ______ increased the amount of dry wood on the forest floor.",
+    "answer_letter": null,
+    "answer_and_explanation_zh": "suppression。不等于所有形式的森林管理。"
+  },
+  {
+    "id": "V16",
+    "question_markdown": "An agreement may help ______ the political divisions that hinder cooperation.",
+    "answer_letter": null,
+    "answer_and_explanation_zh": "transcend。搭配政治分歧等抽象边界。"
+  },
+  {
+    "id": "M01",
+    "question_markdown": "The law limits the agency's authority, not the river's flow.\n\nA. legal power or permission\n\nB. an expert respected for knowledge",
+    "answer_letter": "A",
+    "answer_and_explanation_zh": "此处指机构的法律权限；B把权限义换成了“权威专家”义，并非句中所指。"
+  },
+  {
+    "id": "M02",
+    "question_markdown": "The court changed the scope of regulation, but the ecological consequences may unfold later.\n\nA. all environmental rules have been removed\n\nB. the range of regulation has changed",
+    "answer_letter": "B",
+    "answer_and_explanation_zh": "scope 的变化是适用范围变化；A把范围调整扩大成取消全部规则。句子也没有指定监管属于联邦层级。"
+  },
+  {
+    "id": "M03",
+    "question_markdown": "A prescribed burn is not the same as allowing any wildfire to spread unchecked.\n\nA. a carefully planned fire\n\nB. any fire allowed to spread freely",
+    "answer_letter": "A",
+    "answer_and_explanation_zh": "计划与条件是关键区别。 B删去了方案和条件，把受约束的活动改成任意蔓延。"
+  },
+  {
+    "id": "M04",
+    "question_markdown": "A decline in the number of fires does not establish that future losses will decline.\n\nA. fewer fires prove all risks are lower\n\nB. fewer fires do not prove every risk is lower",
+    "answer_letter": "B",
+    "answer_and_explanation_zh": "频率不能直接推出损失。 A把一个指标的下降扩大成全部风险降低。"
+  },
+  {
+    "id": "M05",
+    "question_markdown": "The findings were a testament to the benefits of careful monitoring.\n\nA. evidence or a clear sign of something\n\nB. a legal document about inheritance",
+    "answer_letter": "A",
+    "answer_and_explanation_zh": "testament 表示见证/体现，不是遗嘱。 B属于另一个词义，与 findings 和 monitoring 的证据语境不合。"
+  },
+  {
+    "id": "M06",
+    "question_markdown": "The policy is a double-edged sword: it reduces one risk while creating another.\n\nA. a policy free of trade-offs\n\nB. a policy with both benefits and disadvantages",
+    "answer_letter": "B",
+    "answer_and_explanation_zh": "both sides 同时存在。 A宣称没有权衡，与一边降低风险、一边增加风险直接矛盾。"
+  },
+  {
+    "id": "I01",
+    "question_markdown": "The wetland review may affect several counties, although only one county requested it.\n\n*The sentence allows which inference?*\n\nA. The review must be limited to the requesting county.\n\nB. The review has already changed every local law.\n\nC. The possible effects extend beyond the requesting county.\n\nD. No county has a legal interest in the review.",
+    "answer_letter": "C",
+    "answer_and_explanation_zh": "范围词 only 限定提出请求者，不限定受影响者；may 保持可能性。 A错把 only 的范围转到影响上；B把可能写成既成事实并加上每项法律；D无依据地否认法律利益。"
+  },
+  {
+    "id": "I02",
+    "question_markdown": "The measure reduced flooding in the town centre but increased runoff into a nearby village.\n\n*What is the best conclusion?*\n\nA. The project had different effects in different places.\n\nB. The project eliminated flooding across the region.\n\nC. The village received no additional runoff.\n\nD. The project was necessarily unlawful.",
+    "answer_letter": "A",
+    "answer_and_explanation_zh": "地点差异被明确提到，不能升级为整体消除或违法。 B抹去村庄受到的不利影响；C直接否认新增径流；D增加法律定性。"
+  },
+  {
+    "id": "I03",
+    "question_markdown": "The study suggests that a policy can succeed by one measure while failing by another.\n\n*The main idea is that _____.*\n\nA. one indicator always determines success\n\nB. policies should never be evaluated\n\nC. all results are equally important\n\nD. policy outcomes may depend on how success is measured",
+    "answer_letter": "D",
+    "answer_and_explanation_zh": "强调评价标准影响判断，不主张一切标准等权。 A忽视不同标准；B否认评估必要性；C从标准不同推出所有结果同等重要，证据不足。"
+  },
+  {
+    "id": "I04",
+    "question_markdown": "Prescribed burns may help reduce fuel, but they must be postponed when weather conditions are unsuitable.\n\n*Which statement is consistent with this?*\n\nA. Fire managers can burn whenever they choose.\n\nB. The method has potential benefits but requires limits.\n\nC. Prescribed burns never produce smoke.\n\nD. Poor weather makes all forest management useless.",
+    "answer_letter": "B",
+    "answer_and_explanation_zh": "but 引入执行前提，may 不代表保证。 A取消天气限制；C承诺从不冒烟，原句没说；D把一种操作暂缓扩大为所有管理无用。"
+  },
+  {
+    "id": "T01",
+    "question_markdown": "A reduction in federal authority does not automatically remove every form of protection available under state law.\n\n译文：________________________________________",
+    "answer_letter": null,
+    "answer_and_explanation_zh": "联邦权限的缩减，并不自动取消州法下所有可用的保护措施。"
+  },
+  {
+    "id": "T02",
+    "question_markdown": "The costs of pollution may be felt far from the place where decisions about land use were originally made.\n\n译文：________________________________________",
+    "answer_letter": null,
+    "answer_and_explanation_zh": "污染的代价可能在距离土地利用决策最初作出地点很远的地方显现。"
+  },
+  {
+    "id": "T03",
+    "question_markdown": "It would be shortsighted to measure a policy only by its immediate benefits when the effects of that policy may last for decades.\n\n译文：________________________________________",
+    "answer_letter": null,
+    "answer_and_explanation_zh": "如果一项政策的影响可能持续数十年，却只用眼前收益评价它，这将是目光短浅的。"
+  },
+  {
+    "id": "T04",
+    "question_markdown": "A small fire that clears dry vegetation may reduce the intensity of later fires without preventing them entirely.\n\n译文：________________________________________",
+    "answer_letter": null,
+    "answer_and_explanation_zh": "一场清除干燥植被的小火，可能降低后续火灾的强度，却未必能彻底阻止它们发生。"
+  },
+  {
+    "id": "T05",
+    "question_markdown": "The fact that a programme has lowered the number of reported fires is not sufficient evidence that it has improved safety in every respect.\n\n译文：________________________________________",
+    "answer_letter": null,
+    "answer_and_explanation_zh": "一项计划减少了报告中的火灾次数，并不足以证明它已经在所有方面提高了安全程度。"
+  },
+  {
+    "id": "T06",
+    "question_markdown": "Even where a planned burn is considered beneficial, the timing of the operation must depend on local weather and available personnel.\n\n译文：________________________________________",
+    "answer_letter": null,
+    "answer_and_explanation_zh": "即使计划烧除被认为有益，实施时间仍须取决于当地天气和可用人员。"
+  },
+  {
+    "id": "P01",
+    "question_markdown": "用 scope of 表达：报告没有讨论所有环境问题。\n\n英文：________________________________________",
+    "answer_letter": null,
+    "answer_and_explanation_zh": "Not every environmental issue falls within the scope of the report."
+  },
+  {
+    "id": "P02",
+    "question_markdown": "用 call on sb. to do 表达：研究者呼吁地方政府分享水质数据。\n\n英文：________________________________________",
+    "answer_letter": null,
+    "answer_and_explanation_zh": "The researchers called on local authorities to share water-quality data."
+  },
+  {
+    "id": "P03",
+    "question_markdown": "用 erode 与 may 表达：长期资金不足可能逐渐削弱公众信心。\n\n英文：________________________________________",
+    "answer_letter": null,
+    "answer_and_explanation_zh": "Persistent underfunding may gradually erode public confidence."
+  },
+  {
+    "id": "P04",
+    "question_markdown": "用 at odds with 表达：该决定似乎与现有证据不一致。\n\n英文：________________________________________",
+    "answer_letter": null,
+    "answer_and_explanation_zh": "The decision appears to be at odds with the available evidence."
+  },
+  {
+    "id": "P05",
+    "question_markdown": "用 rather than 表达：应比较多项结果，而不是只计算火灾次数。\n\n英文：________________________________________",
+    "answer_letter": null,
+    "answer_and_explanation_zh": "We should compare several outcomes rather than count fires alone."
+  }
+]

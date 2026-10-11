@@ -68,5 +68,26 @@
       "complete_pdf_in_github": false,
       "primary_exposures_registered": false
     }
+  },
+  {
+    "date": "2026-10-11",
+    "action": "L002_restore_revise_and_prepare_student_edition",
+    "completed": [
+      "恢复此前完整LaTeX、Markdown、Word、PDF及资料包；记录文件哈希",
+      "完成53页学生版、23词条、3篇原创阅读、56道编号题与英中对照",
+      "23项候选与38项历史主讲逐一核对；3个旧词归review",
+      "XeLaTeX编译及53页渲染检查完成；教材与编辑管理内容分离"
+    ],
+    "pending": [
+      "当前内容提交推送及远端文件校验；其后才登记published和primary",
+      "2027官方完整词表与映射",
+      "外部教师二审、学习者试用与测验、实体打印验证"
+    ],
+    "verification": {
+      "pdf_pages": 53,
+      "pdf_visual_review": "all_pages_rendered_and_contact_sheets_checked",
+      "publication": "not_registered_until_remote_verification",
+      "mastery_inferred": false
+    }
   }
 ]

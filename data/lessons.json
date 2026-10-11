@@ -83,12 +83,11 @@
       "P03",
       "P04"
     ],
-    "pdf": null,
+    "pdf": "lessons/02-environment-ecology/student/L002_student.pdf",
     "primary_words": [],
     "candidate_words": [
       "W039",
       "W040",
-      "W036",
       "W041",
       "W042",
       "W043",
@@ -112,16 +111,22 @@
       "W061"
     ],
     "review_words": [
+      "W036",
       "W019",
       "W007"
     ],
     "source_ids": [
       "EXAM-2024-T4",
-      "EXAM-2026-T4"
+      "EXAM-2026-T4",
+      "PDF-L002",
+      "L002-ORIGINAL",
+      "L002-RECOVERY"
     ],
-    "note": "真题、答案、选词和题源交叉核验记录已入仓库；23项候选新词均未登记主讲，regulate 已在 S001 主讲应复习。完整Markdown与9页PDF在本次会话文件中生成，尚未同步GitHub；仓库仅有简版工作稿，status仍为planned。",
-    "draft_source": "lessons/02-environment-ecology/LESSON_DRAFT.md",
-    "source_audit": "lessons/02-environment-ecology/SOURCE_AUDIT.md"
+    "note": "完整学生版已恢复并审校，本地53页PDF与可编辑LaTeX已验证。此内容提交仍保持planned；待推送远端校验后另行登记published和23项primary。",
+    "draft_source": "lessons/02-environment-ecology/student/L002_student.tex",
+    "source_audit": "lessons/02-environment-ecology/editorial/SOURCE_AUDIT.md",
+    "student_markdown": "lessons/02-environment-ecology/student/L002_student.md",
+    "editorial_source": "lessons/02-environment-ecology/editorial/lesson.md"
   },
   {
     "id": "L003",

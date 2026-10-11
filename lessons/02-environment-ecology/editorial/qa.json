@@ -1,0 +1,17 @@
+{
+  "date": "2026-10-11",
+  "pages": 53,
+  "bytes": 696759,
+  "sha256": "29a04886baaf32d236904f170731acfa1b1a5aa5d808dff0f3eb7604d2f50198",
+  "empty_pages": [],
+  "out_of_page_text": [],
+  "overfull_or_missing_glyphs": [],
+  "vocabulary_profiles": 23,
+  "bilingual_vocabulary_examples": 46,
+  "numbered_original_exercises": 56,
+  "original_readings": 3,
+  "syntax_sentences": 8,
+  "review_sentences": 3,
+  "official_answer_claim": false,
+  "learner_mastery_inferred": false
+}

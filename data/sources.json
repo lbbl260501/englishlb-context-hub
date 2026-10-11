@@ -56,12 +56,6 @@
     "verification": "cross_checked_2026_third_party_exam_pdf_and_independent_transcript_nonofficial_answers_D_C_B_D_C_see_L002_SOURCE_AUDIT"
   },
   {
-    "id": "L002-AUDIT",
-    "kind": "source_audit",
-    "path": "lessons/02-environment-ecology/SOURCE_AUDIT.md",
-    "verification": "verified_sources_exam_transcriptions_and_answer_scope"
-  },
-  {
     "id": "EXAM-2022-T2",
     "kind": "exam_reference",
     "exam": "English I",
@@ -84,5 +78,29 @@
     "kind": "source_audit",
     "path": "lessons/03-work-career/editorial/SOURCE_AUDIT.md",
     "verification": "sources_and_answer_scope_cross_checked_2026-10-11"
+  },
+  {
+    "id": "L002-AUDIT",
+    "kind": "source_audit",
+    "path": "lessons/02-environment-ecology/editorial/SOURCE_AUDIT.md",
+    "verification": "verified_sources_exam_transcriptions_and_answer_scope"
+  },
+  {
+    "id": "PDF-L002",
+    "kind": "authored_learning_material",
+    "path": "lessons/02-environment-ecology/student/L002_student.pdf",
+    "verification": "content_reviewed_53_pages_rendered_fonts_embedded_2026-10-11_not_external_teacher_review"
+  },
+  {
+    "id": "L002-ORIGINAL",
+    "kind": "original_teaching_material",
+    "path": "lessons/02-environment-ecology/editorial/lesson.md",
+    "verification": "fictional_readings_A_B_C_original_exercises_and_translations_reviewed"
+  },
+  {
+    "id": "L002-RECOVERY",
+    "kind": "recovered_generated_material",
+    "path": "lessons/02-environment-ecology/editorial/recovery_manifest.json",
+    "verification": "complete_prior_markdown_latex_word_pdfs_and_bundles_recovered_hashes_recorded"
   }
 ]

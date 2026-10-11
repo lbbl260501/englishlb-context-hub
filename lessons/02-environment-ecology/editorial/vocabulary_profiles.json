@@ -1,0 +1,531 @@
+[
+  {
+    "number": "01",
+    "headword": "filter",
+    "pos": " v.",
+    "meaning": "过滤；滤除",
+    "location": "2024·伴读环节P1｜湿地净化水体",
+    "collocations": "filter pollutants · filter out impurities",
+    "contrast": "filter out 强调将杂质滤除；filter information 也可用于信息筛选",
+    "reading_note": "先确认被过滤的对象。文章说湿地过滤污染物，并不是让污染物“消失于所有地方”。",
+    "usage": "filter 是及物动词，直接接被处理的物质；filter out 的宾语是被剔除的部分。看到 out，要判断谁被留下、谁被去掉。",
+    "examples": [
+      {
+        "id": "01-1",
+        "en": "Wetland vegetation can filter some pollutants before they reach open water.",
+        "zh": "湿地植被能在部分污染物进入开阔水域之前将其过滤。"
+      },
+      {
+        "id": "01-2",
+        "en": "The committee filtered out unreliable reports before reviewing the evidence.",
+        "zh": "委员会在审查证据之前筛除了不可靠的报告。"
+      }
+    ]
+  },
+  {
+    "number": "02",
+    "headword": "authority",
+    "pos": " n.",
+    "meaning": "法定监管权限（不可数）；其他语境中也可指当局或权威人士",
+    "location": "2024·伴读环节P2｜环保部门可监管的范围",
+    "collocations": "legal authority · regulatory authority · local authorities",
+    "contrast": "authority 强调有没有权力去做；jurisdiction 更常指权力所适用的地域或事务范围",
+    "reading_note": "本篇的 authority 是监管权限，不是“某位科学权威”。",
+    "usage": "表示权限时通常不可数：have authority to do；表示某一领域的权威人士时可数：an authority on a subject。复数 authorities 常指主管部门。",
+    "examples": [
+      {
+        "id": "02-1",
+        "en": "The agency has the authority to inspect factories that discharge waste into the river.",
+        "zh": "该机构有权检查向河流排放废物的工厂。"
+      },
+      {
+        "id": "02-2",
+        "en": "Several local authorities expressed concern about the proposed changes.",
+        "zh": "若干地方当局对拟议的变化表示担忧。"
+      }
+    ]
+  },
+  {
+    "number": "03",
+    "headword": "scope",
+    "pos": " n.",
+    "meaning": "监管的适用范围；“余地”属于其他语境中的义项",
+    "location": "2024·伴读环节P2｜环保监管的适用边界",
+    "collocations": "the scope of a law · beyond the scope of · narrow/broaden the scope",
+    "contrast": "scope 与 scale 不同，前者重在涵盖内容，后者重在规模或大小",
+    "reading_note": "注意“缩小适用范围”并不等于“完全取消监管”。",
+    "usage": "within/beyond the scope of 后接某项研究、法规或讨论。scope for improvement 中 scope 指改进余地；不要套入本篇的监管范围义。",
+    "examples": [
+      {
+        "id": "03-1",
+        "en": "The decision narrowed the scope of the regulation without abolishing it.",
+        "zh": "这项决定缩小了法规的适用范围，但没有废除法规。"
+      },
+      {
+        "id": "03-2",
+        "en": "The report is valuable, although several issues fall beyond its scope.",
+        "zh": "这份报告很有价值，不过若干问题超出了它的讨论范围。"
+      }
+    ]
+  },
+  {
+    "number": "04",
+    "headword": "at odds with",
+    "pos": " phr.",
+    "meaning": "与……不一致；相冲突",
+    "location": "2024·伴读环节P2｜商业利益与环保规则不一致",
+    "collocations": "be at odds with evidence · at odds with public expectations",
+    "contrast": "不等于 against the law（违法），它首先表示不协调或不一致",
+    "reading_note": "选择题往往把“不一致”扩大为“违法”或“完全敌对”，要保留原文的强度。",
+    "usage": "完整结构是 A be at odds with B。with 后的对象可以是人、政策或证据；介词结构本身不判断谁正确。",
+    "examples": [
+      {
+        "id": "04-1",
+        "en": "The policy is at odds with the evidence gathered by independent researchers.",
+        "zh": "这项政策与独立研究者收集到的证据不一致。"
+      },
+      {
+        "id": "04-2",
+        "en": "Her public statement seemed at odds with the company's earlier promises.",
+        "zh": "她的公开声明似乎与公司先前的承诺相矛盾。"
+      }
+    ]
+  },
+  {
+    "number": "05",
+    "headword": "repercussion",
+    "pos": " n.",
+    "meaning": "连带后果；后续影响（常为负面）",
+    "location": "2024·伴读环节P2｜裁决可能造成的环境后果",
+    "collocations": "have repercussions for · serious repercussions · unintended repercussions",
+    "contrast": "consequence 可中性，repercussion 往往侧重不利的间接后果",
+    "reading_note": "辨别“可能有重大后果”和“后果已经全部发生”。",
+    "usage": "常以复数出现，have repercussions for 指对谁造成后续影响。原文情态词和时态决定后果是可能、已经发生还是尚未落实。",
+    "examples": [
+      {
+        "id": "05-1",
+        "en": "A change in upstream farming may have repercussions for communities downstream.",
+        "zh": "上游耕作方式的变化可能给下游社区带来连带影响。"
+      },
+      {
+        "id": "05-2",
+        "en": "The decision had unintended repercussions for small businesses.",
+        "zh": "这项决定给小企业带来了意料之外的连锁影响。"
+      }
+    ]
+  },
+  {
+    "number": "06",
+    "headword": "jurisdiction",
+    "pos": " n.",
+    "meaning": "管辖权；管辖区域",
+    "location": "2024·伴读环节P3｜流域跨越多个州",
+    "collocations": "within a jurisdiction · beyond federal jurisdiction · neighboring jurisdictions",
+    "contrast": "在本篇中可用“权限”与“辖区”帮助区分；jurisdiction 本身也能表示管辖权",
+    "reading_note": "污染物越过边界，不代表法律管辖权会自动延伸。",
+    "usage": "管辖权义常不可数，如 under federal jurisdiction；行政区域义可数，如 several jurisdictions。authority 也可以表示法定权限，两词有重叠，区别不是绝对互斥。",
+    "examples": [
+      {
+        "id": "06-1",
+        "en": "The river crosses several jurisdictions, each with different environmental rules.",
+        "zh": "这条河流经若干管辖区域，而各地的环保规则并不相同。"
+      },
+      {
+        "id": "06-2",
+        "en": "The dispute concerns whether the case falls within federal jurisdiction.",
+        "zh": "争议在于这一案件是否属于联邦管辖范围。"
+      }
+    ]
+  },
+  {
+    "number": "07",
+    "headword": "shortsighted",
+    "pos": " adj.",
+    "meaning": "目光短浅的；缺乏长远考虑的",
+    "location": "2024·伴读环节P3｜作者对“只看本州保护”的评价",
+    "collocations": "a shortsighted view · a shortsighted policy",
+    "contrast": "常是评价性形容词；须确定是作者判断还是引述他人判断",
+    "reading_note": "读到评价词时，应追问“作者在批评哪个看法”。",
+    "usage": "shortsighted 批评的是判断未充分考虑更远的后果。原文也可能强调超出本地区的空间影响，不应只理解为时间上的短期。",
+    "examples": [
+      {
+        "id": "07-1",
+        "en": "It would be shortsighted to ignore maintenance costs when choosing a cheaper system.",
+        "zh": "选择较便宜的系统时若忽视维护成本，就显得缺乏长远考虑。"
+      },
+      {
+        "id": "07-2",
+        "en": "A shortsighted decision may bring savings now but greater costs later.",
+        "zh": "目光短浅的决定可能带来眼前节省，却造成更大的后续成本。"
+      }
+    ]
+  },
+  {
+    "number": "08",
+    "headword": "transcend",
+    "pos": " v.",
+    "meaning": "超越；跨越（限制、边界或分歧）",
+    "location": "2024·伴读环节P4｜跨越州界及特殊利益的影响",
+    "collocations": "transcend borders · transcend political divisions",
+    "contrast": "transcend 在议论文中常接抽象边界、局限、差异",
+    "reading_note": "不要把它仅译成空间意义的“穿过”。",
+    "usage": "transcend 直接接宾语，不加 across：transcend boundaries。它表示超出局限，不等于已经解决边界两边的全部冲突。",
+    "examples": [
+      {
+        "id": "08-1",
+        "en": "Effective river management must transcend administrative boundaries.",
+        "zh": "有效的河流治理必须超越行政区划的限制。"
+      },
+      {
+        "id": "08-2",
+        "en": "The exhibition aims to transcend differences between generations.",
+        "zh": "这场展览旨在跨越不同世代之间的隔阂。"
+      }
+    ]
+  },
+  {
+    "number": "09",
+    "headword": "runoff",
+    "pos": " n.",
+    "meaning": "地表径流，即在地表流动、汇入河湖的水",
+    "location": "2024·伴读环节P4｜污染物由上游传向下游",
+    "collocations": "agricultural runoff · stormwater runoff · runoff into streams",
+    "contrast": "runoff 是运动介质，不等于全部污染物本身",
+    "reading_note": "阅读时留意“上游决定—径流—下游影响”的因果链。",
+    "usage": "环境语境中 runoff 通常不可数。run off 可作两个词的动词短语；阅读时要区分名词与动词短语。",
+    "examples": [
+      {
+        "id": "09-1",
+        "en": "Heavy rain generated runoff that carried soil from fields into nearby streams.",
+        "zh": "暴雨形成的地表径流将农田中的泥土带入附近的小溪。"
+      },
+      {
+        "id": "09-2",
+        "en": "Vegetated buffer strips can filter pollutants from runoff before it reaches the lake.",
+        "zh": "植被缓冲带能在径流进入湖泊之前滤除其中的污染物。"
+      }
+    ]
+  },
+  {
+    "number": "10",
+    "headword": "call on",
+    "pos": " phr.",
+    "meaning": "呼吁；敦促；（另义）拜访",
+    "location": "2024·伴读环节P5｜作者向州立法者提出请求",
+    "collocations": "call on lawmakers to act · call on the public to support",
+    "contrast": "call on sb. to do 是呼吁某人做事；call on sb. 无后接不定式时也可意为拜访",
+    "reading_note": "特别关注 sb. to do 的结构，找清行动主体与行动内容。",
+    "usage": "call on sb. to do 中 sb. 是被呼吁采取行动的人。called on officials to act 中真正要行动的是 officials，不是 editorial。",
+    "examples": [
+      {
+        "id": "10-1",
+        "en": "The editorial called on lawmakers to review existing wetland protections.",
+        "zh": "这篇社论呼吁立法者审查现行湿地保护措施。"
+      },
+      {
+        "id": "10-2",
+        "en": "The researchers called on schools to reconsider how success is measured.",
+        "zh": "研究者呼吁学校重新考虑成功应如何衡量。"
+      }
+    ]
+  },
+  {
+    "number": "11",
+    "headword": "stakes",
+    "pos": " n. pl.",
+    "meaning": "利害关系；相关的重要利益",
+    "location": "2024·伴读环节P5｜保护湿地所牵涉的重大利害",
+    "collocations": "the stakes are high · what is at stake · raise the stakes",
+    "contrast": "不要把 stakes 机械译作博彩“赌注”；at stake 是“处于风险之中”",
+    "reading_note": "可借助上下文理解“谁可能受益或受损”。",
+    "usage": "the stakes are high 用复数 stakes；at stake 是固定形式，不写 at stakes。两者均要追问牵涉谁的利益。",
+    "examples": [
+      {
+        "id": "11-1",
+        "en": "The stakes are high for villages that depend on the river for drinking water.",
+        "zh": "对于依赖这条河获得饮用水的村庄而言，利害关系重大。"
+      },
+      {
+        "id": "11-2",
+        "en": "What is at stake is not just a single species but the stability of the wider ecosystem.",
+        "zh": "面临风险的不仅是某一个物种，还有更广泛生态系统的稳定性。"
+      }
+    ]
+  },
+  {
+    "number": "12",
+    "headword": "mandate",
+    "pos": " n./v.",
+    "meaning": "被赋予的职责（名词）；动词 mandate 可表示强制规定",
+    "location": "2026·P1｜机构最初承担的灭火职责",
+    "collocations": "a mandate to do · under its mandate · mandate changes",
+    "contrast": "此处指赋予机构的职责，而不是所有语境都译作“强制命令”",
+    "reading_note": "机构接受的任务，不应误解成科学结论。",
+    "usage": "a mandate to do 中 to do 说明职责内容；mandate inspections 中 mandate 是及物动词。名词与动词结构不可混用。",
+    "examples": [
+      {
+        "id": "12-1",
+        "en": "The forest service received a mandate to protect nearby communities from fire.",
+        "zh": "森林管理机构被赋予保护附近社区免受火灾威胁的职责。"
+      },
+      {
+        "id": "12-2",
+        "en": "A new law may mandate regular safety inspections for public buildings.",
+        "zh": "新法律可能规定公共建筑必须定期接受安全检查。"
+      }
+    ]
+  },
+  {
+    "number": "13",
+    "headword": "curb",
+    "pos": " v./n.",
+    "meaning": "抑制；控制；遏制",
+    "location": "2026·P2｜减少病害传播",
+    "collocations": "curb the spread of disease · curb emissions · curb spending",
+    "contrast": "curb ≠ eliminate：抑制不保证完全消除",
+    "reading_note": "题目容易把“减少风险”升级为“彻底杜绝”。",
+    "usage": "curb 作动词直接接风险、排放或传播；a curb on spending 中 curb 是可数名词，指限制措施。降低程度不自动等于归零。",
+    "examples": [
+      {
+        "id": "13-1",
+        "en": "Small fires can help curb the spread of some forest diseases.",
+        "zh": "小规模火灾有助于遏制某些森林病害的传播。"
+      },
+      {
+        "id": "13-2",
+        "en": "The city introduced measures to curb excessive water use during the drought.",
+        "zh": "这座城市采取措施限制干旱期间过量用水。"
+      }
+    ]
+  },
+  {
+    "number": "14",
+    "headword": "peter out",
+    "pos": " phr.",
+    "meaning": "逐渐减弱并停止",
+    "location": "2026·P2｜低强度火自行减弱",
+    "collocations": "the fire petered out · interest petered out",
+    "contrast": "强调一个过程：由强到弱，最后终止",
+    "reading_note": "留意这是不及物短语，不说 *peter out the fire*。",
+    "usage": "peter out 不带宾语；过去式 petered out。不要把“慢慢结束”的过程义改写成 sudden disappearance。",
+    "examples": [
+      {
+        "id": "14-1",
+        "en": "The fire petered out when it reached an area with little dry vegetation.",
+        "zh": "火势到达缺少干燥植被的地带后逐渐熄灭。"
+      },
+      {
+        "id": "14-2",
+        "en": "Public interest in the campaign petered out after several months.",
+        "zh": "几个月后，公众对这场活动的兴趣渐渐消退。"
+      }
+    ]
+  },
+  {
+    "number": "15",
+    "headword": "compile",
+    "pos": " v.",
+    "meaning": "收集并整理；汇编",
+    "location": "2026·P3｜汇集多年火灾记录",
+    "collocations": "compile data · compile records · compile a report",
+    "contrast": "compile 是将资料整理成系统的整体，不表示凭空制造证据",
+    "reading_note": "既要看研究对象，也要看形成什么记录。",
+    "usage": "compile A from B 表示从B汇集成A；compile A into B 表示把A整理成B。from 与 into 分别提示资料来源与成品。",
+    "examples": [
+      {
+        "id": "15-1",
+        "en": "The scientists compiled fire records from several research sites.",
+        "zh": "科学家汇集了多个研究地点的火灾记录。"
+      },
+      {
+        "id": "15-2",
+        "en": "The museum compiled visitors' comments into an annual report.",
+        "zh": "博物馆将参观者的意见整理成一份年度报告。"
+      }
+    ]
+  },
+  {
+    "number": "16",
+    "headword": "shortfall",
+    "pos": " n.",
+    "meaning": "短缺；不足；缺口",
+    "location": "2026·P3｜观测火灾次数少于历史预期",
+    "collocations": "a shortfall in funding · a shortfall of supplies",
+    "contrast": "本篇是数量相对于比较基准的不足，而非“灾害一定较少”",
+    "reading_note": "读到 shortfall 时，问清“实际值比哪个预期少”。",
+    "usage": "a shortfall in funding 指哪方面不足；a shortfall of ten units 指具体缺多少。解释任何缺口，都应先说比较基准。",
+    "examples": [
+      {
+        "id": "16-1",
+        "en": "The records revealed a shortfall in small fires compared with the number expected at the site.",
+        "zh": "记录显示，该地点发生的小规模火灾次数少于预期。"
+      },
+      {
+        "id": "16-2",
+        "en": "A funding shortfall forced the town to delay the restoration project.",
+        "zh": "经费缺口迫使小镇推迟修复项目。"
+      }
+    ]
+  },
+  {
+    "number": "17",
+    "headword": "suppression",
+    "pos": " n.",
+    "meaning": "压制；抑制；（火灾）扑灭",
+    "location": "2026·P3–P4｜长期灭火造成可燃物累积",
+    "collocations": "fire suppression · suppress fires · suppression efforts",
+    "contrast": "suppression 代表人为积极扑火，不代表所有环境管理措施",
+    "reading_note": "与 prescribed burns（计划烧除）是不同治理手段。",
+    "usage": "suppression 是 suppress 的名词形式。fire suppression 指扑火活动或政策，不能由这个名词单独推断所有火都成功扑灭。",
+    "examples": [
+      {
+        "id": "17-1",
+        "en": "Decades of fire suppression allowed dead wood to accumulate.",
+        "zh": "数十年的火灾压制使枯木不断积累。"
+      },
+      {
+        "id": "17-2",
+        "en": "The report examines whether strict suppression remains the best policy.",
+        "zh": "报告考察了严格扑火是否仍是最佳政策。"
+      }
+    ]
+  },
+  {
+    "number": "18",
+    "headword": "testament",
+    "pos": " n.",
+    "meaning": "体现、明证；“遗嘱”是其他语境中的义项",
+    "location": "2026·P4｜历史记录体现现代灭火的有效性",
+    "collocations": "a testament to resilience · a testament to effort",
+    "contrast": "a testament to 的 to 是介词，后接名词或动名词",
+    "reading_note": "要先确认作者“以什么事实证明什么”，不要在段内割裂语义。",
+    "usage": "a testament to 后面的 to 是介词。先找作为证据的事实，再找它所支持的评价；“体现有效性”不等于证明没有副作用。",
+    "examples": [
+      {
+        "id": "18-1",
+        "en": "The survival of ancient trees is a testament to the forest's resilience.",
+        "zh": "古树得以存活，体现了森林的恢复力。"
+      },
+      {
+        "id": "18-2",
+        "en": "The new library is a testament to years of community cooperation.",
+        "zh": "新图书馆是社区多年合作成果的见证。"
+      }
+    ]
+  },
+  {
+    "number": "19",
+    "headword": "erode",
+    "pos": " v.",
+    "meaning": "侵蚀；逐渐削弱",
+    "location": "2026·P4｜极端天气下扑火能力受到削弱",
+    "collocations": "erode confidence · erode trust · erode the ability to",
+    "contrast": "erode ≠ destroy：程度上可能未完全消失",
+    "reading_note": "常见宾语是抽象事物，作者可能用比喻表达慢性恶化。",
+    "usage": "erode 可及物也可不及物；本册关注 erode confidence/ability。逐渐削弱说明变化方向，实际损害程度仍须读上下文。",
+    "examples": [
+      {
+        "id": "19-1",
+        "en": "A growing fuel load can erode firefighters' ability to control severe fires.",
+        "zh": "不断增加的可燃物可能逐渐削弱消防人员控制严重火灾的能力。"
+      },
+      {
+        "id": "19-2",
+        "en": "Repeated delays eroded public confidence in the transport plan.",
+        "zh": "接连拖延逐渐削弱了公众对交通计划的信心。"
+      }
+    ]
+  },
+  {
+    "number": "20",
+    "headword": "ignite",
+    "pos": " v.",
+    "meaning": "起火（本句不及物）；也可及物，表示点燃或引发",
+    "location": "2026·P4｜恶劣天气条件下起火",
+    "collocations": "ignite dry vegetation · ignite debate · ignite interest",
+    "contrast": "同一动词搭配不同宾语，物理义与抽象义切换",
+    "reading_note": "不要把 ignite debate 译成“点燃一场真实的火”。",
+    "usage": "ignite 可不及物表示起火，也可及物表示点燃。天气可助长燃烧，但不要把干燥条件当成每场火的点火源。",
+    "examples": [
+      {
+        "id": "20-1",
+        "en": "Strong winds can help a small spark ignite dry grass.",
+        "zh": "大风可能使小火星点燃干草。"
+      },
+      {
+        "id": "20-2",
+        "en": "The proposal ignited a debate over who should pay for flood protection.",
+        "zh": "这项提议引发了关于谁该为防洪买单的争论。"
+      }
+    ]
+  },
+  {
+    "number": "21",
+    "headword": "prescribed",
+    "pos": " adj.",
+    "meaning": "规定的；按计划进行的",
+    "location": "2026·P5｜计划烧除",
+    "collocations": "prescribed burns · prescribed treatment · a prescribed method",
+    "contrast": "prescribed burn 是专业固定搭配，指经过安排的、有控制条件的烧除",
+    "reading_note": "它并不是“让大火自行燃烧”，更不是“开药方”。",
+    "usage": "prescribed 是 prescribe 的过去分词，可作形容词。prescribed burns 是计划烧除，不保证实施中绝无风险。",
+    "examples": [
+      {
+        "id": "21-1",
+        "en": "Prescribed burns are conducted under carefully selected conditions.",
+        "zh": "计划烧除是在经过审慎选择的条件下进行的。"
+      },
+      {
+        "id": "21-2",
+        "en": "The prescribed procedure must be followed when dangerous materials are handled.",
+        "zh": "处理危险材料时必须遵守规定程序。"
+      }
+    ]
+  },
+  {
+    "number": "22",
+    "headword": "tactic",
+    "pos": " n.",
+    "meaning": "具体策略；手段",
+    "location": "2026·P6｜计划烧除作为治理手段",
+    "collocations": "a practical tactic · a tactic for reducing risk",
+    "contrast": "tactic 是具体做法；strategy 通常表示统筹性的长远战略",
+    "reading_note": "题目不应从“一种有效手段”推出“唯一政策”。",
+    "usage": "one tactic for doing 表示实现目标的一种做法。one 保留其他可能手段，不能转述成 the only effective policy。",
+    "examples": [
+      {
+        "id": "22-1",
+        "en": "Careful thinning is one tactic for reducing the amount of fuel near homes.",
+        "zh": "审慎疏伐是减少住宅附近可燃物的一种办法。"
+      },
+      {
+        "id": "22-2",
+        "en": "The campaign adopted a different tactic after its early efforts failed.",
+        "zh": "前期尝试失败后，这场活动采用了另一种策略。"
+      }
+    ]
+  },
+  {
+    "number": "23",
+    "headword": "double-edged sword",
+    "pos": " phr.",
+    "meaning": "双刃剑；本段借此比喻“更需要开展，却更难开展”的两难",
+    "location": "2026·P6｜气候变化使治理更必要但更困难",
+    "collocations": "a double-edged sword · prove to be a double-edged sword",
+    "contrast": "常见义是兼有利弊；此段不是说气候变化有益，而是说它同时增加治理需要与实施难度",
+    "reading_note": "查明“什么方面需要更多”与“什么方面变得更难”。",
+    "usage": "双刃剑的通常含义不能替代当前上下文。此篇的两面是需求增加与操作困难，不能编出“气候变化改善生态”的好处。",
+    "examples": [
+      {
+        "id": "23-1",
+        "en": "Greater public access can be a double-edged sword for nature reserves.",
+        "zh": "扩大公众进入自然保护区的机会，可能是一把双刃剑。"
+      },
+      {
+        "id": "23-2",
+        "en": "Digital monitoring is a double-edged sword when privacy safeguards are weak.",
+        "zh": "当隐私保护不足时，数字监测就成为一把双刃剑。"
+      }
+    ]
+  }
+]

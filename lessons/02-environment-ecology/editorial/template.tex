@@ -1,0 +1,126 @@
+% L002 student edition. Compile with xelatex twice (or latexmk -xelatex).
+% All original reading passages, exercises, answer keys and bilingual supplements are included.
+% This is a learner-facing document; audit logs and repository metadata are separate.
+\documentclass[a4paper,11pt,openany]{report}
+\usepackage{xeCJK}
+\usepackage{fontspec}
+\usepackage{geometry}
+\geometry{a4paper,top=22mm,bottom=23mm,left=24.5mm,right=24.5mm,headheight=23pt,headsep=9mm,footskip=12mm}
+\usepackage{microtype}
+\usepackage{setspace}
+\setstretch{1.20}
+\usepackage{xcolor}
+\definecolor{deepforest}{HTML}{20483F}
+\definecolor{leaf}{HTML}{397665}
+\definecolor{accentgold}{HTML}{B68A54}
+\definecolor{softgreen}{HTML}{F4F8F5}
+\definecolor{softsand}{HTML}{F9F7F1}
+\definecolor{linegrey}{HTML}{DFE5DE}
+\definecolor{bodygrey}{HTML}{4B5753}
+\setmainfont{Latin Modern Roman}
+\setsansfont{Latin Modern Sans}
+\setmonofont{Latin Modern Mono}[Scale=0.90]
+\setCJKmainfont[ItalicFont={Noto Serif CJK SC}]{Noto Serif CJK SC}
+\setCJKsansfont{Noto Sans CJK SC}
+\setCJKmonofont{Noto Sans CJK SC}
+\newCJKfontfamily\CJKsf{Noto Sans CJK SC}
+\usepackage[most]{tcolorbox}
+\usepackage{enumitem}
+\usepackage{needspace}
+\usepackage{etoolbox}
+\usepackage{ragged2e}
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+\usepackage{titlesec}
+\usepackage{xurl}
+\usepackage{longtable,booktabs,array}
+\usepackage{hyperref}
+\hypersetup{colorlinks=true,linkcolor=deepforest,urlcolor=leaf,bookmarksnumbered=false,pdfcreator={XeLaTeX},pdftitle={考研英语（一）词汇与阅读讲义：环境与生态},pdfsubject={L002 环境与生态：保护政策与野火管理}}
+\urlstyle{same}
+\sloppy
+\emergencystretch=2em
+\setlength{\parindent}{1.8em}
+\setlength{\parskip}{0.14em}
+\setcounter{secnumdepth}{-1}
+\setcounter{tocdepth}{1}
+\raggedbottom
+\renewcommand{\contentsname}{学习目录}
+\setlist[itemize]{leftmargin=2.0em,topsep=3pt,itemsep=3pt,parsep=0pt}
+\setlist[enumerate]{leftmargin=2.0em,topsep=3pt,itemsep=3pt,parsep=0pt}
+\setlist[description]{leftmargin=2.0em,topsep=3pt,itemsep=3pt}
+% Titles: unit heading, subsection, and sentence drills all share a clear rhythm.
+\titleformat{\chapter}[display]
+ {\CJKsf\color{deepforest}\bfseries}
+ {\small\color{accentgold} 考研英语（一）\, · \,第二册}
+ {5pt}
+ {\Huge}
+ [\vspace{1.0ex}{\color{accentgold}\rule{\linewidth}{1.1pt}}]
+\titlespacing*{\chapter}{0pt}{-2mm}{9mm}
+\titleformat{\section}[hang]{\CJKsf\Large\bfseries\color{deepforest}}{}{0pt}{}
+\titlespacing*{\section}{0pt}{5mm}{2mm}
+\titleformat{\subsection}[hang]{\CJKsf\normalsize\bfseries\color{leaf}}{}{0pt}{}
+\titlespacing*{\subsection}{0pt}{3mm}{0.8mm}
+\titleformat{\subsubsection}[hang]{\CJKsf\normalsize\color{deepforest}}{}{0pt}{}
+\titlespacing*{\subsubsection}{0pt}{3mm}{1mm}
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\CJKsf\footnotesize\color{leaf} 英语（一）\, · \,环境与生态}
+\fancyhead[R]{\CJKsf\footnotesize\color{bodygrey}\nouppercase{\leftmark}}
+\fancyfoot[C]{\color{bodygrey}\sffamily\small\thepage}
+\renewcommand{\headrulewidth}{0.3pt}
+\renewcommand{\headrule}{\hbox to\headwidth{\color{linegrey}\leaders\hrule height \headrulewidth\hfill}}
+\fancypagestyle{plain}{\fancyhf{}\fancyfoot[C]{\sffamily\small\color{bodygrey}\thepage}\renewcommand{\headrulewidth}{0pt}}
+% Breakable textbook word profile with compact labels, designed to sit across pages gracefully.
+\newtcolorbox{vocabbox}[3]{enhanced,
+ before skip=6pt,after skip=6pt,
+ colback=softgreen,colframe=linegrey,boxrule=0.5pt,
+ borderline west={2.3pt}{0pt}{leaf},arc=1.6mm,
+ left=3mm,right=3mm,top=2.8mm,bottom=2.8mm,
+ fonttitle=\CJKsf\bfseries\color{deepforest},colbacktitle=softgreen,
+ attach boxed title to top left={xshift=3mm,yshift=-1mm},
+ boxed title style={boxrule=0pt,frame hidden,colback=softgreen},
+ title={\color{accentgold}\textsf{#1}\quad\large\textsf{#2}\quad\normalsize\color{bodygrey}\textsf{#3}},
+ before upper={\parindent0pt\parskip=0.17em\relax},
+ }
+\newcommand{\emphasislabel}[1]{\textcolor{leaf}{\CJKsf\bfseries #1}}
+\newcommand{\zhline}[1]{{\CJKsf\color{bodygrey}#1}}
+% Block quotation styles: enough contrast, without repeatedly boxing the bilingual appendix.
+\renewenvironment{quote}{%
+ \par\begin{list}{}{\setlength{\leftmargin}{1.25em}\setlength{\rightmargin}{0em}}\item[]\color{bodygrey}\ignorespaces
+}{\end{list}}
+\providecommand{\tightlist}{\setlength{\itemsep}{1pt}\setlength{\parskip}{0pt}}
+\providecommand{\pandocbounded}[1]{#1}
+\providecommand{\hyperlink}[2]{\hyperref[#1]{#2}}
+\providecommand{\hypertarget}[2]{\phantomsection\label{#1}#2}
+
+\begin{document}
+\begin{titlepage}
+\thispagestyle{empty}
+\sffamily
+\vspace*{12mm}
+{\CJKsf\color{leaf}\large 考研英语（一） \textbar{} 词汇与阅读讲义}\par
+\vspace{40mm}
+{\color{accentgold}\rule{22mm}{2pt}}\par
+\vspace{10mm}
+{\CJKsf\color{deepforest}\fontsize{34}{44}\selectfont\bfseries 环境与生态}\par
+\vspace{4mm}
+{\CJKsf\color{deepforest}\fontsize{20}{28}\selectfont\bfseries 保护政策与野火管理}\par
+\vspace{13mm}
+{\color{leaf}\fontsize{13}{18}\selectfont ENVIRONMENT \& ECOLOGY}\par
+\vspace{3mm}
+{\color{bodygrey}\fontsize{11}{17}\selectfont Wetlands \textperiodcentered{} Wildfire Management \textperiodcentered{} Critical Reading}\par
+\vfill
+\begin{tcolorbox}[colback=softsand,colframe=softsand,boxrule=0pt,arc=1mm,left=4mm,right=4mm,top=5mm,bottom=5mm]
+{\CJKsf\color{deepforest}\bfseries 第二册 · 阅读与词汇训练}\par\vspace{1mm}
+{\CJKsf\color{bodygrey}\normalsize 两篇真题伴读　｜　23 项重点词与词块　｜　三篇原创阅读}\par
+{\CJKsf\color{bodygrey}\normalsize 句法和翻译练习　｜　答案详解　｜　英中双语对照}\par
+\end{tcolorbox}
+\vspace{12mm}
+\end{titlepage}
+\pagenumbering{roman}
+\tableofcontents
+\clearpage
+\pagenumbering{arabic}
+@@BODY@@
+\end{document}
