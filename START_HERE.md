@@ -18,3 +18,7 @@
 ## 编写逻辑（优先）
 
 教材创作开始前必须阅读 `docs/ENGLISH_I_EDITORIAL_BLUEPRINT.md`，再读 `docs/STUDENT_LESSON_STANDARD.md`。新纲领为全考研英语（一）的英语能力 × 文章理解 × 可观察命题考查逻辑，不应误读为“全部靠阅读技巧”。
+
+## 2026-10-11 两册新源码已入库
+
+L002与L003重塑版完整XeLaTeX/Markdown源码已经GitHub远程blob哈希核验，分别参见 `lessons/02-environment-ecology/student/L002_rebuilt_2026.tex` 与 `lessons/03-work-career/student/L003_rebuilt_2026.tex`。新PDF（36/39页）目前只有ChatGPT对话本地交付，GitHub未存新版PDF。L002原53页正式发布版保持不变，L003暂不发布也不计28候选词主讲。详情见 `docs/REBUILD_L002_L003_2026-10-11.md`。
