@@ -22,6 +22,17 @@
     "theme": "T06",
     "title": "野火管理与生态干预",
     "source_id": "EXAM-2026-T4"
+  },
+  {
+    "id": "P05",
+    "theme": "T02",
+    "title": "学位价值、职业选择与持续学习",
+    "source_id": "EXAM-2022-T2"
+  },
+  {
+    "id": "P06",
+    "theme": "T02",
+    "title": "劳动保障制度、解雇与生产率",
+    "source_id": "EXAM-2022-T4"
   }
 ]
-
