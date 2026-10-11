@@ -122,5 +122,61 @@
     "note": "真题、答案、选词和题源交叉核验记录已入仓库；23项候选新词均未登记主讲，regulate 已在 S001 主讲应复习。完整Markdown与9页PDF在本次会话文件中生成，尚未同步GitHub；仓库仅有简版工作稿，status仍为planned。",
     "draft_source": "lessons/02-environment-ecology/LESSON_DRAFT.md",
     "source_audit": "lessons/02-environment-ecology/SOURCE_AUDIT.md"
+  },
+  {
+    "id": "L003",
+    "title": "工作与职业｜学历信号与劳动保障",
+    "status": "planned",
+    "theme": "T02",
+    "problem_ids": [
+      "P05",
+      "P06"
+    ],
+    "pdf": null,
+    "primary_words": [],
+    "candidate_words": [
+      "W062",
+      "W063",
+      "W064",
+      "W065",
+      "W066",
+      "W067",
+      "W068",
+      "W069",
+      "W070",
+      "W071",
+      "W072",
+      "W073",
+      "W074",
+      "W075",
+      "W076",
+      "W077",
+      "W078",
+      "W079",
+      "W080",
+      "W081",
+      "W082",
+      "W083",
+      "W084",
+      "W085",
+      "W086",
+      "W087",
+      "W088",
+      "W089"
+    ],
+    "review_words": [
+      "W009",
+      "W003",
+      "W010",
+      "W036",
+      "W030"
+    ],
+    "source_ids": [
+      "EXAM-2022-T2",
+      "EXAM-2022-T4",
+      "L003-AUDIT"
+    ],
+    "note": "2022英语（一）Text 2与Text 4 已核验；本次本地生成50页XeLaTeX学生教材与完整可编辑源码，完整文件尚未远程存储，故暂维持planned；28项新候选未计主讲，5项旧词为复习，不推算大纲覆盖或个人掌握。",
+    "source_audit": "lessons/03-work-career/editorial/SOURCE_AUDIT.md"
   }
 ]
