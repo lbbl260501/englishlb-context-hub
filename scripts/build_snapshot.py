@@ -56,6 +56,16 @@ for l in pending:
     if l.get("note"):
         lines.append("  - 注：" + l["note"])
 
+lines.extend(["", "## 重塑版源文件（与现行教材发布记录分开）", ""])
+for lesson in lessons:
+    rebuilt = lesson.get("rebuilt_edition")
+    if rebuilt:
+        lines.append(
+            f"- {lesson['id']}：学生可编辑源文件 \`{rebuilt['tex']}\` / \`{rebuilt['markdown']}\` 已入库核验；"
+            f"重塑版PDF {rebuilt['local_pdf_pages']}页，目前**尚未入库**；"
+            f"该册的正式发布状态仍为 \`{lesson['status']}\`。"
+        )
+
 lines += [
     "",
     "## 新会话读取与编写规则",
