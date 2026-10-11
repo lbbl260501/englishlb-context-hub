@@ -60,5 +60,29 @@
     "kind": "source_audit",
     "path": "lessons/02-environment-ecology/SOURCE_AUDIT.md",
     "verification": "verified_sources_exam_transcriptions_and_answer_scope"
+  },
+  {
+    "id": "EXAM-2022-T2",
+    "kind": "exam_reference",
+    "exam": "English I",
+    "year": 2022,
+    "section": "Reading Text 2",
+    "url": "https://ac-wiki.org/general-skills/study/assets/2022-201.pdf",
+    "verification": "third_party_exam_pdf_cross_checked_independent_nonofficial_key_C_B_C_D_A"
+  },
+  {
+    "id": "EXAM-2022-T4",
+    "kind": "exam_reference",
+    "exam": "English I",
+    "year": 2022,
+    "section": "Reading Text 4",
+    "url": "https://ac-wiki.org/general-skills/study/assets/2022-201.pdf",
+    "verification": "third_party_exam_pdf_cross_checked_independent_nonofficial_key_D_A_D_B_C"
+  },
+  {
+    "id": "L003-AUDIT",
+    "kind": "source_audit",
+    "path": "lessons/03-work-career/editorial/SOURCE_AUDIT.md",
+    "verification": "sources_and_answer_scope_cross_checked_2026-10-11"
   }
 ]
