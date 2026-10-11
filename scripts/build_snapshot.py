@@ -1,49 +1,73 @@
+"""Generate a neutral, lesson-agnostic cross-chat project snapshot from data/*.json.
+
+Never count candidate teaching as primary exposure; do not infer learner mastery.
+Run audit before writing, so any broken references or artifact hashes fail closed.
+"""
 from common import load, plan, write_text
 from audit import audit
+
 errors = audit()
 if errors:
     raise SystemExit("\n".join(errors))
+
 lessons = load("lessons")
-words = load("lexemes")
-completed = [x for x in lessons if x["status"] in ("imported", "published")]
-legacy = [x for x in lessons if x["status"] == "archived_sample"]
-primary = [w for w in words if w["primary_lesson"]]
-_, new, repeated, review = plan()
-snapshot = f"""# CONTEXT SNAPSHOT | 考研英语（一）讲义知识库
+lexemes = load("lexemes")
+assessments = load("assessments")
+syllabus = load("syllabus")
+primary = [w for w in lexemes if w.get("primary_lesson")]
+published = [l for l in lessons if l["status"] in ("imported", "published")]
+legacy = [l for l in lessons if l["status"] == "archived_sample"]
+pending = [l for l in lessons if l["status"] == "planned"]
 
-> 从 data/*.json 生成。修改原始数据后运行 python scripts/build_snapshot.py，不手工编辑本文件。
+lines = [
+    "# CONTEXT SNAPSHOT | 考研英语（一）词汇与阅读",
+    "",
+    "> 由 scripts/build_snapshot.py 根据 data/*.json 生成；不要手工维护统计数字。",
+    "",
+    "## 远程仓库已确认的事实",
+    "",
+    f"- 正式已归档/已发布讲义：{len(published)} 册；历史样章：{len(legacy)} 册。",
+    f"- 已登记首次主讲的不同词汇单位：{len(primary)} 项。含历史样章；**不等于已掌握词数**。",
+    f"- 学习者测验记录：{len(assessments)} 条。未经测验不能推算个人掌握率。",
+    "- 大纲完整覆盖率：" + ("需后续审计后使用" if syllabus.get("official_list_imported") and syllabus.get("item_mapping_verified") else "不可计算（官方全词表尚未导入并逐项核对）。"),
+    "",
+    "## 已归档讲义",
+    "",
+]
+for l in published + legacy:
+    lines.append(f"- {l['id']}｜{l['title']}；状态 `{l['status']}`；登记主讲 {len(l['primary_words'])} 项；PDF `{l.get('pdf') or '未登记'}`。")
 
-## 当前已归档
+lines.extend(["", "## 待发布讲义（计划词不计已教）", ""])
+for l in pending:
+    _, new, repeated, review = plan(l["id"])
+    lines.append(
+        f"- **{l['id']}｜{l['title']}**：新候选 {len(new)} 项；历史已讲候选 {len(repeated)} 项；已安排复习 {len(review)} 项；当前未登记任何主讲。"
+    )
+    if new:
+        lines.append("  - 候选：" + ", ".join(w["text"] for w in new) + "。")
+    if repeated or review:
+        seen = []
+        for w in repeated + review:
+            if w["id"] not in [x["id"] for x in seen]:
+                seen.append(w)
+        lines.append("  - 复习/去重：" + ", ".join(w["text"] + "（" + str(w["primary_lesson"]) + "）" for w in seen) + "。")
+    if l.get("source_audit"):
+        lines.append("  - 来源审校：" + l["source_audit"] + "。")
+    if l.get("note"):
+        lines.append("  - 注：" + l["note"])
 
-- 正式讲义：{len(completed)} 册；L001 教育与学习，23页双语PDF，24项主讲词。
-- 历史样章：{len(legacy)} 册；S001 科技与规制，12页，14项主讲词，保留去重。
-- 累计登记主讲词汇单位：{len(primary)} 项；不是个人掌握数量。
-- 原PDF已导入；本次只核对词汇索引等选定页面，未全面重审答案及旧文中的论断。
+lines += [
+    "",
+    "## 新会话读取与编写规则",
+    "",
+    "1. 先读 START_HERE.md、AGENTS.md、docs/STUDENT_LESSON_STANDARD.md、本快照。",
+    "2. 再读 data/lessons.json、data/lexemes.json、data/exposures.json、对应册次的独立来源审计。",
+    "3. 真题、媒体题源、第三方转录、自编练习必须区分。原创英文练习必须有英中对照附录，位于答案之后。",
+    "4. 学生版不得混入版本、JSON、仓库操作等编辑资料；候选词不能预记主讲。",
+    "5. 如需更新：运行 python scripts/audit.py、python scripts/plan_next.py --lesson <ID>、python scripts/build_snapshot.py 并报告真实提交。",
+    "6. 只有远程仓库实际保存了完整教材源文件和PDF后，才能登记其出版状态；不能把本地生成等同于GitHub已发布。",
+    "",
+]
 
-## 下一步：L002 环境与生态
-
-- 候选真题：2024 English I Reading Text 4；2026 English I Reading Text 4。
-- 原快照24个候选中，未发现历史主讲的 {len(new)} 项：
-  {", ".join(x["text"] for x in new)}。
-- 候选重复 {len(repeated)} 项：{", ".join(x["text"] + "（已在" + x["primary_lesson"] + "主讲）" for x in repeated)}。
-- 原计划复现：{", ".join(x["text"] for x in review)}。
-- 先核对原文、选项及词义；所有候选均未计入已教。regulate 应改复习或有证据的新义项扩展。
-
-## 长期规则
-
-- 以具体真题文章问题组织讲义，避免受旧聊天题材框架干扰。
-- 同一词汇单位主要精讲一次；复习、新义项分开记录。
-- 自编英文练习配英中双语，对照附录放在答案后。
-- 真题原卷、第三方转录、媒体题源、词典、自编内容分别标注。
-- 官方完整词表尚未导入/逐项核验，官方大纲覆盖率不可计算。
-- 个人测验记录：{len(load("assessments"))} 条；没有数据不得推断掌握率。
-
-## 接续
-
-读取 START_HERE.md、AGENTS.md、data/lessons.json、data/lexemes.json、data/exposures.json。
-运行 python scripts/audit.py 和 python scripts/plan_next.py。
-ChatGPT 接续提示见 CHAT_HANDOFF.md；保存与上传必须以实际文件、commit 为证据。
-"""
-write_text("CONTEXT_SNAPSHOT.md", snapshot)
-print("Generated CONTEXT_SNAPSHOT.md")
-
+write_text("CONTEXT_SNAPSHOT.md", "\n".join(lines))
+print("Generated CONTEXT_SNAPSHOT.md for", len(lessons), "lessons")
