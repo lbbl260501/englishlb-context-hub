@@ -109,5 +109,30 @@
       "remote_files_byte_identical": true,
       "mastery_inferred": false
     }
+  },
+  {
+    "date": "2026-10-11",
+    "action": "L002_L003_language_first_rebuild_source_sync",
+    "completed": [
+      "L002重塑36页、L003重塑39页XeLaTeX PDF本地编译并校对",
+      "将L002/L003完整Tex及Markdown分别提交到public GitHub并逐一验证远端Git blob与本地原件完全一致",
+      "保存与真实试卷相关的单独来源与质量复核文档",
+      "保护L002原有53页已出版PDF及原主讲记录，L003依然planned"
+    ],
+    "pending": [
+      "重塑版两份PDF尚未同步GitHub二进制文件，下载见本次ChatGPT对话",
+      "正式替换L002发布版前复核并登记新PDF；L003发布前完成PDF入库及审计，再登记primary",
+      "官方2027全词表尚未导入；学习者掌握不可估计"
+    ],
+    "verification": {
+      "source_tex_remote_identical": true,
+      "source_md_remote_identical": true,
+      "local_xelatex_pages": {
+        "L002": 36,
+        "L003": 39
+      },
+      "remote_rebuilt_pdf": false,
+      "primary_words_unchanged": true
+    }
   }
 ]
