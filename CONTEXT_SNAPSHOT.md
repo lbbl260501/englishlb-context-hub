@@ -21,7 +21,12 @@
   - 候选：weigh up, be found wanting, devalue, social mobility, inevitable, predecessor, committed, scrap, generalist, postgraduate, upskill, employable, trajectory, fulfillment, grievance, provision, dismissal, justify, procedural, safeguard, arbitrary, constrain, productivity, paradoxically, marginal, stringent, threshold, unwieldy。
   - 复习/去重：qualified（L001）, transition（L001）, incentive（L001）, regulate（S001）, consequence（S001）。
   - 来源审校：lessons/03-work-career/editorial/SOURCE_AUDIT.md。
-  - 注：2022英语（一）Text 2与Text 4 已核验；本次本地生成50页XeLaTeX学生教材与完整可编辑源码，完整文件尚未远程存储，故暂维持planned；28项新候选未计主讲，5项旧词为复习，不推算大纲覆盖或个人掌握。
+  - 注：2022英语（一）Text2和Text4已核验；39页重塑版Tex和Markdown已入库且核验，PDF仅本次对话可下载，故L003继续planned，28项候选词暂不计主讲；5个已精讲词作复习。
+
+## 重塑版源文件（与现行教材发布记录分开）
+
+- L002：学生可编辑源文件 `lessons/02-environment-ecology/student/L002_rebuilt_2026.tex` / `lessons/02-environment-ecology/student/L002_rebuilt_2026.md` 已入库核验；重塑版PDF 36页，目前**尚未入库**；该册的正式发布状态仍为 `published`。
+- L003：学生可编辑源文件 `lessons/03-work-career/student/L003_rebuilt_2026.tex` / `lessons/03-work-career/student/L003_rebuilt_2026.md` 已入库核验；重塑版PDF 39页，目前**尚未入库**；该册的正式发布状态仍为 `planned`。
 
 ## 新会话读取与编写规则
 
