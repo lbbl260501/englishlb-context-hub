@@ -77,15 +77,14 @@
   {
     "id": "L002",
     "title": "环境与生态｜保护政策与野火管理",
-    "status": "planned",
+    "status": "published",
     "theme": "T06",
     "problem_ids": [
       "P03",
       "P04"
     ],
     "pdf": "lessons/02-environment-ecology/student/L002_student.pdf",
-    "primary_words": [],
-    "candidate_words": [
+    "primary_words": [
       "W039",
       "W040",
       "W041",
@@ -110,6 +109,7 @@
       "W060",
       "W061"
     ],
+    "candidate_words": [],
     "review_words": [
       "W036",
       "W019",
@@ -122,11 +122,19 @@
       "L002-ORIGINAL",
       "L002-RECOVERY"
     ],
-    "note": "完整学生版已恢复并审校，本地53页PDF与可编辑LaTeX已验证。此内容提交仍保持planned；待推送远端校验后另行登记published和23项primary。",
+    "note": "53页学生版PDF、LaTeX及Markdown已实际入库并逐字节回读核验；23项首次主讲、3项复习。published仅指仓库版本发布，不代表教师二审、学习者掌握或大纲覆盖完成。",
     "draft_source": "lessons/02-environment-ecology/student/L002_student.tex",
     "source_audit": "lessons/02-environment-ecology/editorial/SOURCE_AUDIT.md",
     "student_markdown": "lessons/02-environment-ecology/student/L002_student.md",
-    "editorial_source": "lessons/02-environment-ecology/editorial/lesson.md"
+    "editorial_source": "lessons/02-environment-ecology/editorial/lesson.md",
+    "publication": {
+      "date": "2026-10-11",
+      "content_commit": "87e963c7891fda4dffe5763a926c7127cf775026",
+      "remote_student_files_verified": "byte_identical",
+      "external_teacher_review": "pending",
+      "learner_trial": "pending",
+      "physical_print_check": "pending"
+    }
   },
   {
     "id": "L003",

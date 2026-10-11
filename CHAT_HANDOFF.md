@@ -6,11 +6,11 @@
 
 继续我们的考研英语（一）讲义。长期上下文仓库为 https://github.com/lbbl260501/englishlb-context-hub ；请先检查仓库是否可读取。若无访问权，明确说明，使用我提供的仓库文件包，不猜测仓库状态。
 
-先读取 START_HERE.md、CONTEXT_SNAPSHOT.md、AGENTS.md，再读 data/lessons.json、data/lexemes.json 和 data/exposures.json。先报告实际读到的版本及进度，然后继续第二册“环境与生态｜保护政策与野火管理”。
+先读取 START_HERE.md、CONTEXT_SNAPSHOT.md、AGENTS.md，再读 data/lessons.json、data/lexemes.json 和 data/exposures.json。先报告实际读到的版本及进度，L002已发布53页修订学生版，先按实际待办继续；L003完整文件仍待恢复入库。
 
 第一册教育主题有24项精讲；历史创新与规制样章另有14项。第二册原24候选中的 regulate 已在样章精讲，请作为复习或明确新义项，不能再记首次主讲。resilient、subsequent 也应复习。不要直接套用旧样章的题材框架。
 
-先核对2024英语一 Reading Text 4、2026英语一 Reading Text 4 的实际原文与选项，然后筛词、编讲义。真题、第三方转录、原始媒体题源、自编例句必须分清。自编英文练习的英中对照附在答案后。未拿到并核验官方完整词表前，不计算约5500词覆盖率；没有测验数据不宣称我已掌握。
+L002已核对2024英语一 Reading Text 4和2026英语一 Reading Text 4，非官方答案及来源边界见独立来源审计。修订时仍须核对实际原文与选项。真题、第三方转录、原始媒体题源、自编例句必须分清。自编英文练习的英中对照附在答案后。未拿到并核验官方完整词表前，不计算约5500词覆盖率；没有测验数据不宣称我已掌握。
 
 完成后更新结构化数据与会话交接记录，运行检查并重新生成快照。若当前 ChatGPT 只有读取能力，请给出需要替换的完整文件或补丁，并明确“待提交”；有已授权的写入能力时，保存后给出实际 commit。不要把聊天回答当作已经写回 GitHub。
 

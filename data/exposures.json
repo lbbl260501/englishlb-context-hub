@@ -264,6 +264,187 @@
     "kind": "primary",
     "evidence": "lessons/01-education-learning/lesson-01-bilingual.pdf",
     "mastery_inferred": false
+  },
+  {
+    "lesson_id": "L002",
+    "lexeme_id": "W039",
+    "kind": "primary",
+    "evidence": "lessons/02-environment-ecology/student/L002_student.pdf",
+    "mastery_inferred": false
+  },
+  {
+    "lesson_id": "L002",
+    "lexeme_id": "W040",
+    "kind": "primary",
+    "evidence": "lessons/02-environment-ecology/student/L002_student.pdf",
+    "mastery_inferred": false
+  },
+  {
+    "lesson_id": "L002",
+    "lexeme_id": "W041",
+    "kind": "primary",
+    "evidence": "lessons/02-environment-ecology/student/L002_student.pdf",
+    "mastery_inferred": false
+  },
+  {
+    "lesson_id": "L002",
+    "lexeme_id": "W042",
+    "kind": "primary",
+    "evidence": "lessons/02-environment-ecology/student/L002_student.pdf",
+    "mastery_inferred": false
+  },
+  {
+    "lesson_id": "L002",
+    "lexeme_id": "W043",
+    "kind": "primary",
+    "evidence": "lessons/02-environment-ecology/student/L002_student.pdf",
+    "mastery_inferred": false
+  },
+  {
+    "lesson_id": "L002",
+    "lexeme_id": "W044",
+    "kind": "primary",
+    "evidence": "lessons/02-environment-ecology/student/L002_student.pdf",
+    "mastery_inferred": false
+  },
+  {
+    "lesson_id": "L002",
+    "lexeme_id": "W045",
+    "kind": "primary",
+    "evidence": "lessons/02-environment-ecology/student/L002_student.pdf",
+    "mastery_inferred": false
+  },
+  {
+    "lesson_id": "L002",
+    "lexeme_id": "W046",
+    "kind": "primary",
+    "evidence": "lessons/02-environment-ecology/student/L002_student.pdf",
+    "mastery_inferred": false
+  },
+  {
+    "lesson_id": "L002",
+    "lexeme_id": "W047",
+    "kind": "primary",
+    "evidence": "lessons/02-environment-ecology/student/L002_student.pdf",
+    "mastery_inferred": false
+  },
+  {
+    "lesson_id": "L002",
+    "lexeme_id": "W048",
+    "kind": "primary",
+    "evidence": "lessons/02-environment-ecology/student/L002_student.pdf",
+    "mastery_inferred": false
+  },
+  {
+    "lesson_id": "L002",
+    "lexeme_id": "W049",
+    "kind": "primary",
+    "evidence": "lessons/02-environment-ecology/student/L002_student.pdf",
+    "mastery_inferred": false
+  },
+  {
+    "lesson_id": "L002",
+    "lexeme_id": "W050",
+    "kind": "primary",
+    "evidence": "lessons/02-environment-ecology/student/L002_student.pdf",
+    "mastery_inferred": false
+  },
+  {
+    "lesson_id": "L002",
+    "lexeme_id": "W051",
+    "kind": "primary",
+    "evidence": "lessons/02-environment-ecology/student/L002_student.pdf",
+    "mastery_inferred": false
+  },
+  {
+    "lesson_id": "L002",
+    "lexeme_id": "W052",
+    "kind": "primary",
+    "evidence": "lessons/02-environment-ecology/student/L002_student.pdf",
+    "mastery_inferred": false
+  },
+  {
+    "lesson_id": "L002",
+    "lexeme_id": "W053",
+    "kind": "primary",
+    "evidence": "lessons/02-environment-ecology/student/L002_student.pdf",
+    "mastery_inferred": false
+  },
+  {
+    "lesson_id": "L002",
+    "lexeme_id": "W054",
+    "kind": "primary",
+    "evidence": "lessons/02-environment-ecology/student/L002_student.pdf",
+    "mastery_inferred": false
+  },
+  {
+    "lesson_id": "L002",
+    "lexeme_id": "W055",
+    "kind": "primary",
+    "evidence": "lessons/02-environment-ecology/student/L002_student.pdf",
+    "mastery_inferred": false
+  },
+  {
+    "lesson_id": "L002",
+    "lexeme_id": "W056",
+    "kind": "primary",
+    "evidence": "lessons/02-environment-ecology/student/L002_student.pdf",
+    "mastery_inferred": false
+  },
+  {
+    "lesson_id": "L002",
+    "lexeme_id": "W057",
+    "kind": "primary",
+    "evidence": "lessons/02-environment-ecology/student/L002_student.pdf",
+    "mastery_inferred": false
+  },
+  {
+    "lesson_id": "L002",
+    "lexeme_id": "W058",
+    "kind": "primary",
+    "evidence": "lessons/02-environment-ecology/student/L002_student.pdf",
+    "mastery_inferred": false
+  },
+  {
+    "lesson_id": "L002",
+    "lexeme_id": "W059",
+    "kind": "primary",
+    "evidence": "lessons/02-environment-ecology/student/L002_student.pdf",
+    "mastery_inferred": false
+  },
+  {
+    "lesson_id": "L002",
+    "lexeme_id": "W060",
+    "kind": "primary",
+    "evidence": "lessons/02-environment-ecology/student/L002_student.pdf",
+    "mastery_inferred": false
+  },
+  {
+    "lesson_id": "L002",
+    "lexeme_id": "W061",
+    "kind": "primary",
+    "evidence": "lessons/02-environment-ecology/student/L002_student.pdf",
+    "mastery_inferred": false
+  },
+  {
+    "lesson_id": "L002",
+    "lexeme_id": "W036",
+    "kind": "review",
+    "evidence": "lessons/02-environment-ecology/student/L002_student.pdf",
+    "mastery_inferred": false
+  },
+  {
+    "lesson_id": "L002",
+    "lexeme_id": "W019",
+    "kind": "review",
+    "evidence": "lessons/02-environment-ecology/student/L002_student.pdf",
+    "mastery_inferred": false
+  },
+  {
+    "lesson_id": "L002",
+    "lexeme_id": "W007",
+    "kind": "review",
+    "evidence": "lessons/02-environment-ecology/student/L002_student.pdf",
+    "mastery_inferred": false
   }
 ]
-

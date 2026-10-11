@@ -4,23 +4,19 @@
 
 ## 远程仓库已确认的事实
 
-- 正式已归档/已发布讲义：1 册；历史样章：1 册。
-- 已登记首次主讲的不同词汇单位：38 项。含历史样章；**不等于已掌握词数**。
+- 正式已归档/已发布讲义：2 册；历史样章：1 册。
+- 已登记首次主讲的不同词汇单位：61 项。含历史样章；**不等于已掌握词数**。
 - 学习者测验记录：0 条。未经测验不能推算个人掌握率。
 - 大纲完整覆盖率：不可计算（官方全词表尚未导入并逐项核对）。
 
 ## 已归档讲义
 
 - L001｜教育与学习｜词汇与阅读；状态 `imported`；登记主讲 24 项；PDF `lessons/01-education-learning/lesson-01-bilingual.pdf`。
+- L002｜环境与生态｜保护政策与野火管理；状态 `published`；登记主讲 23 项；PDF `lessons/02-environment-ecology/student/L002_student.pdf`。
 - S001｜历史样章：科技、创新与规制；状态 `archived_sample`；登记主讲 14 项；PDF `lessons/00-legacy-sample/vocabulary-sample.pdf`。
 
 ## 待发布讲义（计划词不计已教）
 
-- **L002｜环境与生态｜保护政策与野火管理**：新候选 23 项；历史已讲候选 0 项；已安排复习 3 项；当前未登记任何主讲。
-  - 候选：filter, authority, scope, at odds with, repercussion, jurisdiction, shortsighted, transcend, runoff, call on, stakes, mandate, curb, peter out, compile, shortfall, suppression, testament, erode, ignite, prescribed, tactic, double-edged sword。
-  - 复习/去重：regulate（S001）, resilient（L001）, subsequent（L001）。
-  - 来源审校：lessons/02-environment-ecology/editorial/SOURCE_AUDIT.md。
-  - 注：完整学生版已恢复并审校，本地53页PDF与可编辑LaTeX已验证。此内容提交仍保持planned；待推送远端校验后另行登记published和23项primary。
 - **L003｜工作与职业｜学历信号与劳动保障**：新候选 28 项；历史已讲候选 0 项；已安排复习 5 项；当前未登记任何主讲。
   - 候选：weigh up, be found wanting, devalue, social mobility, inevitable, predecessor, committed, scrap, generalist, postgraduate, upskill, employable, trajectory, fulfillment, grievance, provision, dismissal, justify, procedural, safeguard, arbitrary, constrain, productivity, paradoxically, marginal, stringent, threshold, unwieldy。
   - 复习/去重：qualified（L001）, transition（L001）, incentive（L001）, regulate（S001）, consequence（S001）。

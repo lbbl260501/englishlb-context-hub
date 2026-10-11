@@ -89,5 +89,25 @@
       "publication": "not_registered_until_remote_verification",
       "mastery_inferred": false
     }
+  },
+  {
+    "date": "2026-10-11",
+    "action": "L002_remote_verification_and_publication_registration",
+    "completed": [
+      "学生PDF、LaTeX、Markdown已提交并从远端回读，逐字节相同",
+      "核验内容提交 87e963c7891fda4dffe5763a926c7127cf775026",
+      "按实际发布登记23项primary与3项review；保留并发L003规划数据",
+      "运行audit、L002/L003 plan_next、build_snapshot并保存结果"
+    ],
+    "pending": [
+      "外部教师二审、学习者试用与测验、实体打印验证",
+      "L003完整文件恢复与实际入库",
+      "2027官方完整词表与映射"
+    ],
+    "verification": {
+      "content_commit": "87e963c7891fda4dffe5763a926c7127cf775026",
+      "remote_files_byte_identical": true,
+      "mastery_inferred": false
+    }
   }
 ]

@@ -13,5 +13,10 @@
   "syntax_sentences": 8,
   "review_sentences": 3,
   "official_answer_claim": false,
-  "learner_mastery_inferred": false
+  "learner_mastery_inferred": false,
+  "remote_verification": {
+    "content_commit": "87e963c7891fda4dffe5763a926c7127cf775026",
+    "student_pdf_tex_markdown": "byte_identical_after_git_fetch",
+    "pdf_sha256": "29a04886baaf32d236904f170731acfa1b1a5aa5d808dff0f3eb7604d2f50198"
+  }
 }

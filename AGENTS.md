@@ -17,4 +17,4 @@
 
 ## 学生教材与项目数据分离（2026-10-10 修订）
 
-**先读 [docs/STUDENT_LESSON_STANDARD.md](docs/STUDENT_LESSON_STANDARD.md)**。L002 的9页初稿被认为“内容单薄、混入技术报告”，不再作为教学模板。学生PDF/Word/Markdown 不能出现 GitHub 提交、JSON状态、词条ID或审计日志；来源核验、去重和编写工作报告放在教材之外。下一册先检验其是否适合学习者独立阅读、做题、核对，再进行版本发布。完整修订版尚未入库前保持 L002 的 planned 状态与38项历史主讲记录，不得提前计覆盖。
+**先读 [docs/STUDENT_LESSON_STANDARD.md](docs/STUDENT_LESSON_STANDARD.md)**。L002 的9页初稿被认为“内容单薄、混入技术报告”，不再作为教学模板。学生PDF/Word/Markdown 不能出现 GitHub 提交、JSON状态、词条ID或审计日志；来源核验、去重和编写工作报告放在教材之外。下一册先检验其是否适合学习者独立阅读、做题、核对，再进行版本发布。版本状态以实际入库和核验结果为准，完整源文件及PDF尚未入库的课程保持 planned，不得提前登记主讲或计覆盖。

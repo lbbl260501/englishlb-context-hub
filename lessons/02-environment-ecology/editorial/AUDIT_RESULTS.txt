@@ -1,0 +1,25 @@
+2026-10-11: actual execution after remote content verification
+
+$ python scripts/audit.py
+PASS: references, primary teaching records, PDF hashes and coverage prerequisites
+
+$ python scripts/plan_next.py --lesson L002
+L002 环境与生态｜保护政策与野火管理
+Candidate words without prior primary teaching: 0
+
+Previously taught candidates; use review or verified sense extension: 0
+Already planned review: regulate, resilient, subsequent
+Lesson status: published
+No pending candidate words in this lesson; consult primary/review records for published teaching.
+
+$ python scripts/plan_next.py --lesson L003
+L003 工作与职业｜学历信号与劳动保障
+Candidate words without prior primary teaching: 28
+weigh up, be found wanting, devalue, social mobility, inevitable, predecessor, committed, scrap, generalist, postgraduate, upskill, employable, trajectory, fulfillment, grievance, provision, dismissal, justify, procedural, safeguard, arbitrary, constrain, productivity, paradoxically, marginal, stringent, threshold, unwieldy
+Previously taught candidates; use review or verified sense extension: 0
+Already planned review: qualified, transition, incentive, regulate, consequence
+Lesson status: planned
+Candidates are not published primary records; consult the source and vocabulary audits.
+
+$ python scripts/build_snapshot.py
+Generated CONTEXT_SNAPSHOT.md for 4 lessons

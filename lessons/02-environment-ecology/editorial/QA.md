@@ -25,3 +25,7 @@ lesson.md与template.tex生成完整学生LaTeX与Markdown；export_content.py�
 在学生源码和PDF实际推送且远端校验前，L002仍保持planned，不登记23项primary。内容提交成功后，出版登记提交可引用该已存在的内容提交，更新published、primary/review及快照。出版是教材完成并存入仓库，不表示学习者读过或掌握。
 
 未完成事项保持未完成：2027官方完整词表及逐项映射、外部教师二审、学习者试用/测验、实体打印验证。上述后续工作不伪装成已做。
+
+## 远端发布核验
+
+内容提交 `87e963c7891fda4dffe5763a926c7127cf775026` 已写入 main。通过 git fetch 回读学生 PDF、LaTeX、Markdown，三者与本地逐字节一致；其后才登记 published 和主讲记录。外部教师二审、学习者试用、实体打印仍待完成。
