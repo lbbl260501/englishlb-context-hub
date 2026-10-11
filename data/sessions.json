@@ -46,5 +46,27 @@
       "lesson_L002": "planned_not_counted",
       "exam_answers": "third_party_cross_checked"
     }
+  },
+  {
+    "date": "2026-10-11",
+    "action": "L003_2022_exam_research_and_latex_learner_lesson",
+    "completed": [
+      "核验2022英语一Text2/Text4与26-30/36-40非官方参考答案",
+      "制作本地50页XeLaTeX学生讲义及Markdown、.tex、编辑档案",
+      "核对现有61项词汇并登记28项不重复的候选词，5项复习词",
+      "以planned而非published记录L003，禁止预先登记主讲与掌握"
+    ],
+    "pending": [
+      "将L003完整教材PDF与可编辑源码实际同步GitHub并审核后再登记published与primary_exposures",
+      "将L002之前生成的46页最终版入库并经审核后再确认是否发布",
+      "导入并核对2027官方完整词表"
+    ],
+    "verification": {
+      "answers": "nonofficial_two_source_crosscheck",
+      "local_pdf_pages": 50,
+      "local_tex_compiled": true,
+      "complete_pdf_in_github": false,
+      "primary_exposures_registered": false
+    }
   }
 ]
